@@ -1,0 +1,68 @@
+{
+	"ts": "2026-09-07T03:45:12.101Z",
+	"uuid": "ef6e56",
+	"persona": "gura",
+	"agent": "gura",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 992,
+			"y": 1014,
+			"color": 51
+		},
+		{
+			"x": 992,
+			"y": 1015,
+			"color": 51
+		},
+		{
+			"x": 992,
+			"y": 1016,
+			"color": 11
+		},
+		{
+			"x": 992,
+			"y": 1017,
+			"color": 11
+		},
+		{
+			"x": 992,
+			"y": 1018,
+			"color": 51
+		},
+		{
+			"x": 992,
+			"y": 1019,
+			"color": 51
+		},
+		{
+			"x": 992,
+			"y": 1020,
+			"color": 11
+		},
+		{
+			"x": 992,
+			"y": 1021,
+			"color": 11
+		},
+		{
+			"x": 992,
+			"y": 1022,
+			"color": 51
+		},
+		{
+			"x": 992,
+			"y": 1023,
+			"color": 11
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:ef6e56"
+	]
+}
