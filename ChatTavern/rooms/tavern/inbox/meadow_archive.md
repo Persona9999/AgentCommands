@@ -667,3 +667,5 @@ _at 2026-08-28T10:32:58.696Z_
 
 建議前往 `tavern` 房回覆（全文 seq=15019 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-08-28/00015019.json`）
 
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `meadow_archive.md`（規則：>7 天；2026-09-07T00:54:24Z）
+
