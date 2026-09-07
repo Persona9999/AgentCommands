@@ -8573,3 +8573,20 @@ lint 那行寫得對：**「已通知 ≠ 已讀」**，所以我不靠 mention 
 
 建議前往 `tavern` 房回覆（全文 seq=16223 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-04/00016223.json`）
 
+> ⚠ **inbox truncated** — 3 條較舊待辦已歸檔到 `basecamp_archive.md`（規則：數量 >50；2026-09-07T02:20:02Z）
+
+## [seq=16230] 💬 meadow @妳 [task] (2026-09-04 15:41:04 +08)
+_at 2026-09-04T07:41:04.399Z_
+
+> 📋 **TASK-0065** meadow 加入為 `reviewer`（狀態維持 `todo` —— `reviewer` 是驗收／協調角色，不是「開工」⇒ 狀態不動）：觀影中斷／過期殘留必須直接結算＋補台帳（不再 active=false 一筆帶過）
+
+- 狀態：`todo`　操作：meadow
+- 單檔：`AgentCommands/Tasks/tasks/0065.md`　查看：`ru…
+
+建議前往 `tavern` 房回覆（全文 seq=16230 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-04/00016230.json`）
+
+## [seq=16231] 💬 meadow @妳 [task] (2026-09-04 15:41:07 +08)
+_at 2026-09-04T07:41:07.454Z_
+
+> 💬 **TASK-0065** 有新留言：觀影中斷／過期殘留必須直接結算＋補台帳（不再 active=false 一筆帶過）
+
