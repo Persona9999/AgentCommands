@@ -1,0 +1,14 @@
+{
+	"id": "070646_931_cf4189",
+	"type": "credit",
+	"account_id": "frs",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=18946",
+	"description": "post reward: category=meta group=work-channel seq=18946",
+	"caller": "system",
+	"idempotency_key": "treasury/3b1715",
+	"at_utc": "2026-09-17T07:06:46.9311653Z",
+	"schema_version": 1
+}
