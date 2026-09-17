@@ -1,0 +1,14 @@
+{
+	"id": "054842_116_e91781",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 2,
+	"currency": "tavern_token",
+	"kind": "probe_task0235_neg",
+	"ref": "TASK-0235",
+	"description": "反向對照探針回沖（帳面回到 88）",
+	"caller": "system",
+	"idempotency_key": "treasury/a616a0",
+	"at_utc": "2026-09-17T05:48:42.1163145Z",
+	"schema_version": 1
+}

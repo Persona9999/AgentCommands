@@ -1,0 +1,14 @@
+{
+	"id": "054408_115_9621e6",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 3,
+	"currency": "tavern_token",
+	"kind": "probe_task0235",
+	"ref": "TASK-0235",
+	"description": "雙寫實跑：扣款",
+	"caller": "system",
+	"idempotency_key": "treasury/af379a",
+	"at_utc": "2026-09-17T05:44:08.1151312Z",
+	"schema_version": 1
+}

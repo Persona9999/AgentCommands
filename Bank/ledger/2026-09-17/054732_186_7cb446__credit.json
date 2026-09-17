@@ -1,0 +1,14 @@
+{
+	"id": "054732_186_7cb446",
+	"type": "credit",
+	"account_id": "template",
+	"amount": 2,
+	"currency": "tavern_token",
+	"kind": "probe_task0235_neg",
+	"ref": "TASK-0235",
+	"description": "反向對照：senate 指到不存在的檔",
+	"caller": "system",
+	"idempotency_key": "treasury/2272c9",
+	"at_utc": "2026-09-17T05:47:32.1865587Z",
+	"schema_version": 1
+}
