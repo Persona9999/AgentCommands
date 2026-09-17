@@ -1,0 +1,14 @@
+{
+	"id": "052308_418_de02eb",
+	"type": "credit",
+	"account_id": "pacific-standard-public-deposit-bank",
+	"amount": 20313,
+	"currency": "tavern_token",
+	"kind": "opening_balance",
+	"ref": "treasury-balances@2026-09-17T05:22:30.851Z",
+	"description": "舊 Treasury 餘額遷入（TASK-0216／央行，Tim 2026-09-17 說一起搬）",
+	"caller": "basecamp",
+	"idempotency_key": "opening/pacific-standard-public-deposit-bank",
+	"at_utc": "2026-09-17T05:23:08.4181516Z",
+	"schema_version": 1
+}
