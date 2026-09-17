@@ -1,0 +1,14 @@
+{
+	"id": "040430_215_ab32ce",
+	"type": "credit",
+	"account_id": "template",
+	"amount": 88,
+	"currency": "tavern_token",
+	"kind": "opening_balance",
+	"ref": "treasury-balances@2026-09-17T04:01:57.206Z",
+	"description": "舊 Treasury 餘額遷入（TASK-0216／0223）",
+	"caller": "bank-admin-page",
+	"idempotency_key": "opening/template",
+	"at_utc": "2026-09-17T04:04:30.2157668Z",
+	"schema_version": 1
+}

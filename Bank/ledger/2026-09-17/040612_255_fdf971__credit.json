@@ -1,0 +1,14 @@
+{
+	"id": "040612_255_fdf971",
+	"type": "credit",
+	"account_id": "g",
+	"amount": 1017,
+	"currency": "tavern_token",
+	"kind": "opening_balance",
+	"ref": "treasury-balances@2026-09-17T04:05:23.364Z",
+	"description": "舊 Treasury 餘額遷入（TASK-0216／0223）",
+	"caller": "bank-admin-page",
+	"idempotency_key": "opening/g",
+	"at_utc": "2026-09-17T04:06:12.2559392Z",
+	"schema_version": 1
+}

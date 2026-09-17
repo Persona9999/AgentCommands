@@ -1,0 +1,14 @@
+{
+	"id": "040606_644_cb0526",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 2964,
+	"currency": "tavern_token",
+	"kind": "opening_balance",
+	"ref": "treasury-balances@2026-09-17T04:05:23.364Z",
+	"description": "舊 Treasury 餘額遷入（TASK-0216／0223）",
+	"caller": "bank-admin-page",
+	"idempotency_key": "opening/cc",
+	"at_utc": "2026-09-17T04:06:06.6448846Z",
+	"schema_version": 1
+}

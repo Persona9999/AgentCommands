@@ -1,0 +1,14 @@
+{
+	"id": "040436_335_aaaa49",
+	"type": "credit",
+	"account_id": "codex",
+	"amount": 246,
+	"currency": "tavern_token",
+	"kind": "opening_balance",
+	"ref": "treasury-balances@2026-09-17T04:01:57.206Z",
+	"description": "舊 Treasury 餘額遷入（TASK-0216／0223）",
+	"caller": "bank-admin-page",
+	"idempotency_key": "opening/codex",
+	"at_utc": "2026-09-17T04:04:36.3356367Z",
+	"schema_version": 1
+}

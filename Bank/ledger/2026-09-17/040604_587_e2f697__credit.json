@@ -1,0 +1,14 @@
+{
+	"id": "040604_587_e2f697",
+	"type": "credit",
+	"account_id": "frs",
+	"amount": 3226,
+	"currency": "tavern_token",
+	"kind": "opening_balance",
+	"ref": "treasury-balances@2026-09-17T04:05:23.364Z",
+	"description": "舊 Treasury 餘額遷入（TASK-0216／0223）",
+	"caller": "bank-admin-page",
+	"idempotency_key": "opening/frs",
+	"at_utc": "2026-09-17T04:06:04.5877376Z",
+	"schema_version": 1
+}
