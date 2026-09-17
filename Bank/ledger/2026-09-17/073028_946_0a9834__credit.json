@@ -1,0 +1,14 @@
+{
+	"id": "073028_946_0a9834",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "f53b4a7",
+	"description": "commit post reward: sha=f53b4a7 tavern#seq=18952",
+	"caller": "system",
+	"idempotency_key": "treasury/8bef7a",
+	"at_utc": "2026-09-17T07:30:28.9468854Z",
+	"schema_version": 1
+}
