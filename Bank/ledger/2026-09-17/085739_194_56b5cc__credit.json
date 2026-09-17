@@ -1,0 +1,14 @@
+{
+	"id": "085739_194_56b5cc",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=19073",
+	"description": "post reward: category=chat group=work-channel seq=19073",
+	"caller": "system",
+	"idempotency_key": "treasury/5fc6bb",
+	"at_utc": "2026-09-17T08:57:39.1948036Z",
+	"schema_version": 1
+}

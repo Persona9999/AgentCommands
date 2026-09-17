@@ -1,0 +1,14 @@
+{
+	"id": "080734_195_3cf46b",
+	"type": "credit",
+	"account_id": "luna",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=18966",
+	"description": "post reward: category=chat group=work-channel seq=18966",
+	"caller": "system",
+	"idempotency_key": "treasury/b77f4d",
+	"at_utc": "2026-09-17T08:07:34.1952100Z",
+	"schema_version": 1
+}
