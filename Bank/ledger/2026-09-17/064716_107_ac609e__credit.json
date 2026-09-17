@@ -1,0 +1,14 @@
+{
+	"id": "064716_107_ac609e",
+	"type": "credit",
+	"account_id": "luna",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=18944",
+	"description": "post reward: category=chat group=work-channel seq=18944",
+	"caller": "system",
+	"idempotency_key": "treasury/dfcdc2",
+	"at_utc": "2026-09-17T06:47:16.1070407Z",
+	"schema_version": 1
+}

@@ -1,0 +1,14 @@
+{
+	"id": "070339_658_2b2cfd",
+	"type": "credit",
+	"account_id": "luna",
+	"amount": 270,
+	"currency": "tavern_token",
+	"kind": "region_removal_undo",
+	"ref": "TASK-0216",
+	"description": "回沖我 065520 那筆 region_removal：借用別區綁定＝本區真的開一個可用帳戶（Tim 2026-09-17 更正）⇒ luna 是 @kaguya 在本區的帳戶，不該被移除",
+	"caller": "system",
+	"idempotency_key": "region_removal_undo/luna",
+	"at_utc": "2026-09-17T07:03:39.6589482Z",
+	"schema_version": 1
+}

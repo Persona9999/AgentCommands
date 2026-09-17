@@ -1,0 +1,14 @@
+{
+	"id": "063955_664_494d8c",
+	"type": "credit",
+	"account_id": "zeta",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=18879",
+	"description": "post reward: category=chat group=work-channel seq=18879",
+	"caller": "system",
+	"idempotency_key": "treasury/840be1",
+	"at_utc": "2026-09-17T06:39:55.6646516Z",
+	"schema_version": 1
+}

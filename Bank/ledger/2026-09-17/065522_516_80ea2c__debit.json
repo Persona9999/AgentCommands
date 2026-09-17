@@ -1,0 +1,14 @@
+{
+	"id": "065522_516_80ea2c",
+	"type": "debit",
+	"account_id": "codex",
+	"amount": 246,
+	"currency": "tavern_token",
+	"kind": "region_removal",
+	"ref": "TASK-0216",
+	"description": "移出本區新銀行：codex 是 BTC 區 @meadow 的綁定，本區（Florin）沒綁定。錢仍在舊 Treasury（權威未切），⛔ 本筆不動任何人的實際餘額",
+	"caller": "system",
+	"idempotency_key": "region_removal/codex",
+	"at_utc": "2026-09-17T06:55:22.5161445Z",
+	"schema_version": 1
+}
