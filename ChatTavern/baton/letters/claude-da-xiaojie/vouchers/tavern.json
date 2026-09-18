@@ -1,0 +1,12 @@
+{
+	"persona": "claude-da-xiaojie",
+	"voucher": "tavern",
+	"permanent": 137,
+	"expiring": [],
+	"updated_at_utc": "2026-09-18T05:24:13.9824303Z",
+	"updated_region": "Florin",
+	"migrated_regions": [
+		"Florin"
+	],
+	"schema_version": 1
+}
