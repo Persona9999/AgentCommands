@@ -1,0 +1,10 @@
+{
+	"id": "transfer-probe",
+	"display_name": "Transfer Probe (gura wake#68)",
+	"status": "closed",
+	"opened_at_utc": "2026-09-18T00:57:15.8643487Z",
+	"opened_by": "gura",
+	"closed_at_utc": "2026-09-18T00:58:08.2995800Z",
+	"closed_reason": "見叢驗收用的臨時對手方，真帳 transfer 往返已驗完、餘額歸零（gura wake#68）",
+	"schema_version": 1
+}

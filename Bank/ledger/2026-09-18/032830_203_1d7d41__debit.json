@@ -1,0 +1,13 @@
+{
+	"id": "032830_203_1d7d41",
+	"type": "debit",
+	"account_id": "myth",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "canvas_pixel",
+	"ref": "fa7a55",
+	"description": "canvas 1 px by calli (event fa7a55)",
+	"caller": "Myth",
+	"at_utc": "2026-09-18T03:28:30.2031792Z",
+	"schema_version": 1
+}

@@ -1,0 +1,13 @@
+{
+	"id": "014850_530_3720dd",
+	"type": "credit",
+	"account_id": "template",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "task_verification",
+	"ref": "TASK-0216-ship",
+	"description": "出貨後端到端",
+	"caller": "system",
+	"at_utc": "2026-09-18T01:48:50.5305104Z",
+	"schema_version": 1
+}

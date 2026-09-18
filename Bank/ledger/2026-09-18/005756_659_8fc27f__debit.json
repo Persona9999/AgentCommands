@@ -1,0 +1,14 @@
+{
+	"id": "005756_659_8fc27f",
+	"type": "debit",
+	"account_id": "transfer-probe",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "probe_transfer_reverse",
+	"ref": "keys-20260917T090710Z",
+	"description": "見叢驗收：回程，把 1 還給 Template（wake#68）　[tx=gura-wake68-transfer-probe-1-back] 轉出→template",
+	"caller": "gura",
+	"idempotency_key": "gura-wake68-transfer-probe-1-back/out",
+	"at_utc": "2026-09-18T00:57:56.6593000Z",
+	"schema_version": 1
+}

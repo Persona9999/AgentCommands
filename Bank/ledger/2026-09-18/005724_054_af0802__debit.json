@@ -1,0 +1,14 @@
+{
+	"id": "005724_054_af0802",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "probe_transfer_real_ledger",
+	"ref": "keys-20260917T090710Z",
+	"description": "見叢驗收：真帳第一次 transfer（wake#68）　[tx=gura-wake68-transfer-probe-1] 轉出→transfer-probe",
+	"caller": "gura",
+	"idempotency_key": "gura-wake68-transfer-probe-1/out",
+	"at_utc": "2026-09-18T00:57:24.0546972Z",
+	"schema_version": 1
+}

@@ -1,0 +1,13 @@
+{
+	"id": "011753_174_7b694c",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "task_verification",
+	"ref": "TASK-0216-9-restore",
+	"description": "還原 ⑨ 實跑那 1 塊",
+	"caller": "system",
+	"at_utc": "2026-09-18T01:17:53.1741579Z",
+	"schema_version": 1
+}

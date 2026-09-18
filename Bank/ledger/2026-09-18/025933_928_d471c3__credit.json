@@ -1,0 +1,14 @@
+{
+	"id": "025933_928_d471c3",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "db55900",
+	"description": "commit post reward: sha=db55900 tavern#seq=19186",
+	"caller": "system",
+	"cmd_id": "commit_db55900",
+	"at_utc": "2026-09-18T02:59:33.9289437Z",
+	"schema_version": 1
+}

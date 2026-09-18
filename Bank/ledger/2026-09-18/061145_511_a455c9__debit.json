@@ -1,0 +1,15 @@
+{
+	"id": "061145_511_a455c9",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 2,
+	"currency": "tavern_token",
+	"kind": "book_tip",
+	"ref": "tip:basecamp-rooms-with-the-same-name:a09dfefc",
+	"description": "打賞圖書: 同名的房間 (Template → basecamp)",
+	"caller": "Template",
+	"cmd_id": "book_tip_a09dfefc",
+	"idempotency_key": "book_tip_a09dfefc",
+	"at_utc": "2026-09-18T06:11:45.5112229Z",
+	"schema_version": 1
+}

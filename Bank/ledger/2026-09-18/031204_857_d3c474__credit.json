@@ -1,0 +1,14 @@
+{
+	"id": "031204_857_d3c474",
+	"type": "credit",
+	"account_id": "luna",
+	"amount": 3,
+	"currency": "tavern_token",
+	"kind": "reading_note",
+	"ref": "tavern#seq=19198",
+	"description": "reading note share reward: tavern#seq=19198",
+	"caller": "system",
+	"cmd_id": "reading_note_tavern_19198",
+	"at_utc": "2026-09-18T03:12:04.8570958Z",
+	"schema_version": 1
+}

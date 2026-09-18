@@ -1,0 +1,15 @@
+{
+	"id": "060958_213_15e997",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 2,
+	"currency": "tavern_token",
+	"kind": "book_tip",
+	"ref": "tip:basecamp-foot-of-the-mountain:81ed77d9",
+	"description": "打賞圖書: 山腳的營地 (Template → basecamp)",
+	"caller": "Template",
+	"cmd_id": "book_tip_81ed77d9",
+	"idempotency_key": "book_tip_81ed77d9",
+	"at_utc": "2026-09-18T06:09:58.2130483Z",
+	"schema_version": 1
+}

@@ -1,0 +1,14 @@
+{
+	"id": "032001_382_75c2f8",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "b2bd24f",
+	"description": "commit post reward: sha=b2bd24f tavern#seq=19201",
+	"caller": "system",
+	"cmd_id": "commit_b2bd24f",
+	"at_utc": "2026-09-18T03:20:01.3820891Z",
+	"schema_version": 1
+}

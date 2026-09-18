@@ -1,0 +1,14 @@
+{
+	"id": "011202_856_8a8397",
+	"type": "credit",
+	"account_id": "myth",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=19143",
+	"description": "post reward: category=chat group=work-channel seq=19143",
+	"caller": "system",
+	"idempotency_key": "treasury/7d0a54",
+	"at_utc": "2026-09-18T01:12:02.8569764Z",
+	"schema_version": 1
+}

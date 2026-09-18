@@ -1,0 +1,12 @@
+{
+	"id": "055512_386_24eb64",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 2,
+	"currency": "tavern_token",
+	"kind": "overnight_storage_fee",
+	"ref": "whitelist-neg",
+	"caller": "basecamp",
+	"at_utc": "2026-09-18T05:55:12.3869485Z",
+	"schema_version": 1
+}

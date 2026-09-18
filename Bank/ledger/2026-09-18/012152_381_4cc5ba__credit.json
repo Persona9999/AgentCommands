@@ -1,0 +1,14 @@
+{
+	"id": "012152_381_4cc5ba",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "8950a496",
+	"description": "commit post reward: sha=8950a496 tavern#seq=19148",
+	"caller": "system",
+	"cmd_id": "commit_8950a496",
+	"at_utc": "2026-09-18T01:21:52.3816927Z",
+	"schema_version": 1
+}

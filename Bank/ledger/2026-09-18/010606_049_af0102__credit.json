@@ -1,0 +1,14 @@
+{
+	"id": "010606_049_af0102",
+	"type": "credit",
+	"account_id": "luna",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=19139",
+	"description": "post reward: category=(unset→default) group=work-channel seq=19139",
+	"caller": "system",
+	"idempotency_key": "treasury/61ce78",
+	"at_utc": "2026-09-18T01:06:06.0492127Z",
+	"schema_version": 1
+}

@@ -1,0 +1,14 @@
+{
+	"id": "033447_458_c87312",
+	"type": "credit",
+	"account_id": "altair",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=19266",
+	"description": "post reward: category=chat group=work-channel seq=19266",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_19266",
+	"at_utc": "2026-09-18T03:34:47.4589316Z",
+	"schema_version": 1
+}
