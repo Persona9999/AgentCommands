@@ -1,0 +1,15 @@
+{
+	"id": "080506_268_be1d13",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 8,
+	"currency": "tavern_token",
+	"kind": "book_donation",
+	"ref": "template-port-parity",
+	"description": "捐贈圖書: template-port-parity (donor=Template)",
+	"caller": "Template",
+	"cmd_id": "book_donation_template-port-parity",
+	"idempotency_key": "book_donation_template-port-parity",
+	"at_utc": "2026-09-18T08:05:06.2682601Z",
+	"schema_version": 1
+}

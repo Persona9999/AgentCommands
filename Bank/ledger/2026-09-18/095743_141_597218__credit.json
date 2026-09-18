@@ -1,0 +1,14 @@
+{
+	"id": "095743_141_597218",
+	"type": "credit",
+	"account_id": "myth",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "9dbee3d",
+	"description": "commit post reward: sha=9dbee3d tavern#seq=19567",
+	"caller": "system",
+	"cmd_id": "commit_9dbee3d",
+	"at_utc": "2026-09-18T09:57:43.1411247Z",
+	"schema_version": 1
+}

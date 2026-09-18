@@ -1,0 +1,14 @@
+{
+	"id": "095659_871_fcccd7",
+	"type": "credit",
+	"account_id": "myth",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=19563",
+	"description": "post reward: category=meta group=work-channel seq=19563",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_19563",
+	"at_utc": "2026-09-18T09:56:59.8710874Z",
+	"schema_version": 1
+}

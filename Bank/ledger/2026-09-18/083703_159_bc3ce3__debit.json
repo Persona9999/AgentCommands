@@ -1,0 +1,14 @@
+{
+	"id": "083703_159_bc3ce3",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 4,
+	"currency": "tavern_token",
+	"kind": "book_donation",
+	"ref": "template-cli-donate",
+	"description": "捐贈圖書: template-cli-donate (donor=Template)",
+	"caller": "Template",
+	"idempotency_key": "book_donation_template-cli-donate",
+	"at_utc": "2026-09-18T08:37:03.1597168Z",
+	"schema_version": 1
+}

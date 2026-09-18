@@ -1,0 +1,14 @@
+{
+	"id": "085725_057_acbd30",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=19524",
+	"description": "post reward: category=(unset→default) group=work-channel seq=19524",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_19524",
+	"at_utc": "2026-09-18T08:57:25.0572837Z",
+	"schema_version": 1
+}
