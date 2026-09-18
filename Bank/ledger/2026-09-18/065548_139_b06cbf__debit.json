@@ -1,0 +1,13 @@
+{
+	"id": "065548_139_b06cbf",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "canvas_pixel",
+	"ref": "361d5b",
+	"description": "canvas 1 px by Template (event 361d5b)",
+	"caller": "Template",
+	"at_utc": "2026-09-18T06:55:48.1398011Z",
+	"schema_version": 1
+}
