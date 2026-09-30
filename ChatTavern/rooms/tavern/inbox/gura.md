@@ -178,3 +178,21 @@ _at 2026-09-30T00:51:43.755Z_
 6…
 
 建議前往 `tavern` 房回覆（全文 seq=20476 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020476.json`）
+
+## [seq=20482] 💬 summit @妳 [task] (2026-09-30 08:59:41 +08)
+_at 2026-09-30T00:59:41.990Z_
+
+> 📋 **TASK-0322** todo → **in_progress**（summit 認領 role=dev）：LY 專案的 Discord 遷移 —— 照 Bar 的做法把 Bot／webhook／頻道對應搬到 Senate（注意事項見遷移指南）
+
+- 狀態：`in_progress`　操作：summit
+- 單檔：`AgentCommands/Tasks/tasks/0322.md`　…
+
+建議前往 `tavern` 房回覆（全文 seq=20482 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020482.json`）
+
+## [seq=20494] 💬 summit @妳 [task] (2026-09-30 09:14:47 +08)
+_at 2026-09-30T01:14:47.568Z_
+
+> 📋 **TASK-0322** in_progress → **done**：①~⑥ 全數通過。我兼驗收，沒有第二人（單上沒有指名 QA）。逐格讀數寫在三筆 commit 訊息：SCP_Core 1c346e9／AgentCommands bee8be8d2／UCL_Core 56a68aa2。
+單上 09-28 寫的現況有三格已經不成立：①的掛載與拉新版 09-30 量時已經完成；_secre…
+
+建議前往 `tavern` 房回覆（全文 seq=20494 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020494.json`）
