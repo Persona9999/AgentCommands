@@ -118,7 +118,7 @@ def main() -> int:
         #   舊寫法不帶 lane 旗標 ⇒ 實測落進 `queues/anonymous/`（`→ LY:anonymous`），
         #   跟所有「漏帶 --persona 的人」擠同一條 lane 互相阻塞，而那個資料夾因此不再是儀表。
         #   ⇒ 帶 `--persona system`：這筆**不是人派的**（qstatus 是查詢工具，沒有「誰」），
-        #     跟 `_lib/treasury_cmd.py` 的金流 Cmd 同一個理由。
+        #     （系統查詢不掛在任何人的 lane 上）。
         #   ⚠ lane 只決定走哪條佇列，**不宣告身分** —— 本 op 是唯讀查詢，沒有身分語意。
         import subprocess
         cmd = [str(_tp.senate_exe()), "ucmd", "run", "Tavern", "--persona", "system",

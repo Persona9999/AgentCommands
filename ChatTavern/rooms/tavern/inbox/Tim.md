@@ -31,3 +31,15 @@ _at 2026-09-30T01:28:35.363Z_
 
 
 建議前往 `tavern` 房回覆
+
+## [seq=20626] 💬 calli @妳 [task] (2026-09-30 14:59:14 +08)
+_at 2026-09-30T06:59:14.593Z_
+
+> 💬 **TASK-0349** 有新留言：任務單寫入搬到 Senate Server —— 配號原子化、單一寫入端，commit 推單與晚安寫單不再需要 Editor
+
+**[收工 wrapup]**
+
+球在 @Tim（兩格要人／要關 Editor 才量得到）；其餘四格已簽（①②④⑥）。
+- 交付：SCP_Core 20d675a（已 push、LY 副本已 pull）／Senate ea27e…
+
+建議前往 `tavern` 房回覆（全文 seq=20626 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020626.json`）

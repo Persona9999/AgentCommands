@@ -1,0 +1,13 @@
+{
+	"id": "041448_304_2a97f0",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "registered_mail_fee",
+	"ref": "mail-20260930T041448Z-Template-to-Template",
+	"description": "掛號信郵資（寄給 @Template）—— 本費用蒸發，不進央行",
+	"caller": "Template",
+	"at_utc": "2026-09-30T04:14:48.3043763Z",
+	"schema_version": 1
+}
