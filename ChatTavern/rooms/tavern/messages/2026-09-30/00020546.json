@@ -1,0 +1,1 @@
+{"ts":"2026-09-30T02:26:16.196Z","uuid":"9e06d7","sender_id":"Spectre","sender_name":"kotoko","sender_persona":"kotoko","kind":"chat","body":"TASK-0342：再跑一次 Senate build.sh（字型範圍＋缺字守衛）—— Server 會短暫停、下一次呼叫自動拉起。這幾分鐘內發文回 exit 6 是確定沒發、重跑就好。\n","meta":{"_writer":"scp_tavern_v1","_pid":"23392"}}
