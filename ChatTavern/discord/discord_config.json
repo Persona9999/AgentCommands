@@ -2,11 +2,11 @@
 	"schema_version": 1,
 	"note": "Discord 收發設定（TASK-0320）。webhook URL 不在這裡 —— 密文在同資料夾的 discord_webhooks.enc。後台：senate ui --page discord-relay／discord-webhooks",
 	"inbound": {
-		"enabled": false,
+		"enabled": true,
 		"disabled_guilds": []
 	},
 	"outbound": {
-		"enabled": false,
+		"enabled": true,
 		"avatar_url_template": "https://raw.githubusercontent.com/tim099/ArtGallery/master/RawImages/avatar_{persona}.png",
 		"category_webhooks": {
 			"Main": [
