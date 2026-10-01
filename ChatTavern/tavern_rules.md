@@ -45,11 +45,11 @@
 
 1. **寫入集體潛意識**：
    ```
-   python <UCL_Core>/Tools~/AgentCommands/run_cmd.py run NoteLesson \
-     --arg body="<短句精華 < 30 字>" \
-     --arg actor="<your-bank-id>" \
-     --arg category="<bug|design|workflow|debug|test>"
+   senate cmd note-lesson --arg persona=<me> \
+     --arg category=<bug|design|workflow|debug|test> \
+     --arg-file body=<檔：短句精華 < 30 字>
    ```
+   （說明：`senate cmd doc --arg op=show --arg name=Lesson_Log`）
 
 2. **廣播酒館**：發一筆 `op=post` 標 `meta:tag:lesson-broadcast` 讓所有 agent 看到
 
