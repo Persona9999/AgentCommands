@@ -1,4 +1,3 @@
-{"finished_at":"2026-09-08T05:58:00.635Z","total_ms":102.1,"cross_day":false,"threshold_ms":0,"phases":[{"name":"CheckKeywordTriggers","ms":86.5,"note":"msgs=65 rooms=1 progress_calls=1 progress_ms=0"},{"name":"CheckTimeRules","ms":7.5}]}
 {"finished_at":"2026-09-08T05:58:05.565Z","total_ms":17.0,"cross_day":false,"threshold_ms":0,"phases":[{"name":"CheckKeywordTriggers","ms":5.1,"note":"msgs=0 rooms=1 progress_calls=0 progress_ms=0"},{"name":"CheckTimeRules","ms":3.1}]}
 {"finished_at":"2026-09-08T05:58:10.663Z","total_ms":16.4,"cross_day":false,"threshold_ms":0,"phases":[{"name":"CheckKeywordTriggers","ms":5.3,"note":"msgs=0 rooms=1 progress_calls=0 progress_ms=0"},{"name":"CheckTimeRules","ms":2.6}]}
 {"finished_at":"2026-09-08T05:58:15.753Z","total_ms":15.5,"cross_day":false,"threshold_ms":0,"phases":[{"name":"CheckKeywordTriggers","ms":5.5,"note":"msgs=0 rooms=1 progress_calls=0 progress_ms=0"},{"name":"CheckTimeRules","ms":2.7}]}
@@ -28,3 +27,4 @@
 {"finished_at":"2026-10-01T04:00:04.040Z","total_ms":1359.8,"threshold_ms":1000,"phases":[{"name":"ScanNewMessages","ms":5.8},{"name":"CheckTimeRules","ms":1353.5}]}
 {"finished_at":"2026-10-01T06:12:30.027Z","total_ms":2267.7,"threshold_ms":1000,"phases":[{"name":"ScanNewMessages","ms":2259.2},{"name":"CheckTimeRules","ms":7.8}]}
 {"finished_at":"2026-10-01T07:33:05.735Z","total_ms":1489.1,"threshold_ms":1000,"phases":[{"name":"ScanNewMessages","ms":18.1},{"name":"CheckTimeRules","ms":1469.9}]}
+{"finished_at":"2026-10-01T10:00:02.686Z","total_ms":1265.3,"threshold_ms":1000,"phases":[{"name":"ScanNewMessages","ms":6.4},{"name":"CheckTimeRules","ms":1258.2}]}
