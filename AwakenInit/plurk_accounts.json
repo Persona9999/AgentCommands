@@ -21,8 +21,8 @@
 			"SecretId":"plurk_basecamp",
 			"Nick":"cc_basecamp",
 			"PlurkUserId":"18166697",
-			"Source":"secret-scan",
-			"FetchedAtUtc":"2026-09-04T07:09:13Z"
+			"Source":"whoami",
+			"FetchedAtUtc":"2026-10-01T07:21:01Z"
 		},
 		{
 			"SecretId":"plurk_myth",
