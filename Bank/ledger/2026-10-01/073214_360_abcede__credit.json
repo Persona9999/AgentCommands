@@ -1,0 +1,14 @@
+{
+	"id": "073214_360_abcede",
+	"type": "credit",
+	"account_id": "template",
+	"amount": 200,
+	"currency": "tavern_token",
+	"kind": "payout_request",
+	"ref": "dcc9d4",
+	"description": "TASK-0363 雕刻搬到 Senate 的 exe 實跑驗收，全部用 Template 測試帳戶付款：永久券 5 張＋token 4（另有發文薪水 +1，帳上淨少 3）。\nTim 2026-10-01 同意補款，並說測試帳戶可以多打一些 ⇒ 增發 200 token，供之後的實跑測試使用。",
+	"caller": "BankAdminPage",
+	"idempotency_key": "payout/dcc9d4",
+	"at_utc": "2026-10-01T07:32:14.3606360Z",
+	"schema_version": 1
+}

@@ -1,0 +1,15 @@
+{
+	"id": "033826_674_8e850f",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=20847",
+	"description": "post reward: category=meta group=work-channel seq=20847",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_20847",
+	"idempotency_key": "work_post_tavern_20847",
+	"at_utc": "2026-10-01T03:38:26.6749899Z",
+	"schema_version": 1
+}

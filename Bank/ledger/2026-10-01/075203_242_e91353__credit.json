@@ -1,0 +1,15 @@
+{
+	"id": "075203_242_e91353",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "7098fcc",
+	"description": "commit post reward: sha=7098fcc tavern#seq=20897",
+	"caller": "system",
+	"cmd_id": "commit_7098fcc",
+	"idempotency_key": "commit_tavern_20897",
+	"at_utc": "2026-10-01T07:52:03.2426592Z",
+	"schema_version": 1
+}

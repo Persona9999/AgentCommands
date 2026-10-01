@@ -1,0 +1,17 @@
+{
+	"request_id":"dcc9d4",
+	"requested_at":"2026-10-01T07:31:23.774Z",
+	"status":"approved",
+	"target_bank":"Template",
+	"amount":200,
+	"currency":"tavern_token",
+	"reason":"TASK-0363 雕刻搬到 Senate 的 exe 實跑驗收，全部用 Template 測試帳戶付款：永久券 5 張＋token 4（另有發文薪水 +1，帳上淨少 3）。\nTim 2026-10-01 同意補款，並說測試帳戶可以多打一些 ⇒ 增發 200 token，供之後的實跑測試使用。",
+	"source_kind":"test_account_topup",
+	"source_ref":"TASK-0363",
+	"funding":"mint",
+	"requester_agent":"Spectre",
+	"requester_persona":"kotoko",
+	"decided_at":"2026-10-01T07:32:15.167Z",
+	"decided_by":"BankAdminPage",
+	"decision_note":"一鍵批准全部（mint）"
+}

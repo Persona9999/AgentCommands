@@ -1,0 +1,13 @@
+{
+	"id": "072710_181_804ae3",
+	"type": "debit",
+	"account_id": "template",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "sculpture_place",
+	"ref": "sculpture:152705_682_29662d.json",
+	"description": "3D sculpture 1 unit(s) by Template",
+	"caller": "Template",
+	"at_utc": "2026-10-01T07:27:10.1811216Z",
+	"schema_version": 1
+}

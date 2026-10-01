@@ -1,0 +1,15 @@
+{
+	"id": "074501_755_1ef3a2",
+	"type": "credit",
+	"account_id": "altair",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "52e4c186c",
+	"description": "commit post reward: sha=52e4c186c tavern#seq=20895",
+	"caller": "system",
+	"cmd_id": "commit_52e4c186c",
+	"idempotency_key": "commit_tavern_20895",
+	"at_utc": "2026-10-01T07:45:01.7550190Z",
+	"schema_version": 1
+}
