@@ -1,0 +1,198 @@
+{
+	"schema_version": 1,
+	"at_utc": "2026-10-01T08:55:59.4002794Z",
+	"basis": "上線時現值（Tim 2026-10-01 拍板：無法推算原成本的既有持倉以此為成本）",
+	"positions": [
+		{
+			"persona": "Sirius",
+			"symbol": "BTC",
+			"units_e8": 9466666666,
+			"bid_usd": 83529.08,
+			"value_usd": 7907419.5727764728
+		},
+		{
+			"persona": "Sirius",
+			"symbol": "GOLD",
+			"units_e8": 406000000000,
+			"bid_usd": 4162.71,
+			"value_usd": 16900602.60
+		},
+		{
+			"persona": "ame",
+			"symbol": "GOLD",
+			"units_e8": 98400000000,
+			"bid_usd": 4162.71,
+			"value_usd": 4096106.64
+		},
+		{
+			"persona": "apex-one",
+			"symbol": "BTC",
+			"units_e8": 4800000000,
+			"bid_usd": 83529.08,
+			"value_usd": 4009395.84
+		},
+		{
+			"persona": "apex-one",
+			"symbol": "GOLD",
+			"units_e8": 46000000000,
+			"bid_usd": 4162.71,
+			"value_usd": 1914846.60
+		},
+		{
+			"persona": "basecamp",
+			"symbol": "BTC",
+			"units_e8": 27449999999,
+			"bid_usd": 83529.08,
+			"value_usd": 22928732.4591647092
+		},
+		{
+			"persona": "basecamp",
+			"symbol": "GOLD",
+			"units_e8": 98400000000,
+			"bid_usd": 4162.71,
+			"value_usd": 4096106.64
+		},
+		{
+			"persona": "calli",
+			"symbol": "BTC",
+			"units_e8": 17399999998,
+			"bid_usd": 83529.08,
+			"value_usd": 14534059.9183294184
+		},
+		{
+			"persona": "calli",
+			"symbol": "GOLD",
+			"units_e8": 192666666666,
+			"bid_usd": 4162.71,
+			"value_usd": 8020154.5999722486
+		},
+		{
+			"persona": "crest-001",
+			"symbol": "GOLD",
+			"units_e8": 98400000000,
+			"bid_usd": 4162.71,
+			"value_usd": 4096106.64
+		},
+		{
+			"persona": "gura",
+			"symbol": "GOLD",
+			"units_e8": 197059657786,
+			"bid_usd": 4162.71,
+			"value_usd": 8203022.0806236006
+		},
+		{
+			"persona": "gura",
+			"symbol": "BTC",
+			"units_e8": 17199999998,
+			"bid_usd": 83529.08,
+			"value_usd": 14367001.7583294184
+		},
+		{
+			"persona": "kaguya",
+			"symbol": "BTC",
+			"units_e8": 5150000000,
+			"bid_usd": 83529.08,
+			"value_usd": 4301747.620
+		},
+		{
+			"persona": "kiara",
+			"symbol": "BTC",
+			"units_e8": 17399999998,
+			"bid_usd": 83529.08,
+			"value_usd": 14534059.9183294184
+		},
+		{
+			"persona": "kiara",
+			"symbol": "GOLD",
+			"units_e8": 192666666666,
+			"bid_usd": 4162.71,
+			"value_usd": 8020154.5999722486
+		},
+		{
+			"persona": "kotoko",
+			"symbol": "BTC",
+			"units_e8": 9466666666,
+			"bid_usd": 83529.08,
+			"value_usd": 7907419.5727764728
+		},
+		{
+			"persona": "kotoko",
+			"symbol": "GOLD",
+			"units_e8": 18000000000,
+			"bid_usd": 4162.71,
+			"value_usd": 749287.80
+		},
+		{
+			"persona": "meadow",
+			"symbol": "GOLD",
+			"units_e8": 98400000000,
+			"bid_usd": 4162.71,
+			"value_usd": 4096106.64
+		},
+		{
+			"persona": "ridge-001",
+			"symbol": "GOLD",
+			"units_e8": 98400000000,
+			"bid_usd": 4162.71,
+			"value_usd": 4096106.64
+		},
+		{
+			"persona": "summit",
+			"symbol": "BTC",
+			"units_e8": 31050000000,
+			"bid_usd": 83529.08,
+			"value_usd": 25935779.340
+		},
+		{
+			"persona": "summit",
+			"symbol": "GOLD",
+			"units_e8": 496000000000,
+			"bid_usd": 4162.71,
+			"value_usd": 20647041.60
+		}
+	],
+	"unquoted": [
+		"Sirius/FLORIN",
+		"Sirius/CANVAS",
+		"Sirius/TAVERN",
+		"ame/FLORIN",
+		"ame/CANVAS",
+		"ame/TAVERN",
+		"apex-one/FLORIN",
+		"apex-one/CANVAS",
+		"apex-one/TAVERN",
+		"apex-two/CANVAS",
+		"apex-two/TAVERN",
+		"basecamp/FLORIN",
+		"basecamp/CANVAS",
+		"basecamp/TAVERN",
+		"calli/FLORIN",
+		"calli/CANVAS",
+		"calli/TAVERN",
+		"claude-da-xiaojie/TAVERN",
+		"crest-001/FLORIN",
+		"crest-001/CANVAS",
+		"crest-001/TAVERN",
+		"gura/FLORIN",
+		"gura/CANVAS",
+		"gura/TAVERN",
+		"kaguya/CANVAS",
+		"kiara/FLORIN",
+		"kiara/CANVAS",
+		"kiara/TAVERN",
+		"kotoko/FLORIN",
+		"kotoko/CANVAS",
+		"kotoko/TAVERN",
+		"meadow/FLORIN",
+		"meadow/CANVAS",
+		"meadow/TAVERN",
+		"ridge-001/FLORIN",
+		"ridge-001/TAVERN",
+		"ridge-two/TAVERN",
+		"summit/FLORIN",
+		"summit/CANVAS",
+		"summit/TAVERN",
+		"trailhead/CANVAS",
+		"trailhead/TAVERN"
+	]
+}
