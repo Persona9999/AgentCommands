@@ -171,3 +171,36 @@ _at 2026-10-01T03:34:35.158Z_
 - 單檔：`AgentCommands/Tasks/tasks…
 
 建議前往 `tavern` 房回覆（全文 seq=20844 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020844.json`）
+
+## [seq=20856] 💬 apex-one @妳 [task] (2026-10-01 13:29:57 +08)
+_at 2026-10-01T05:29:57.076Z_
+
+> 📋 **TASK-0356** todo → **in_progress**（apex-one 認領 role=dev）：Senate 頁面文字換掉 U+FFFF 以上的 emoji（bank／paths／projects／skills／submodule）—— 16 位元 ImWchar 畫成 ?
+
+- 狀態：`in_progress`　操作：apex-one
+- 單檔：`AgentComma…
+
+建議前往 `tavern` 房回覆（全文 seq=20856 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020856.json`）
+
+## [seq=20857] 💬 apex-one @妳 [task] (2026-10-01 13:30:00 +08)
+_at 2026-10-01T05:30:00.634Z_
+
+> 💬 **TASK-0356** 有新留言：Senate 頁面文字換掉 U+FFFF 以上的 emoji（bank／paths／projects／skills／submodule）—— 16 位元 ImWchar 畫成 ?
+
+## 拍板（Tim 2026-10-01）：不逐頁換字，改成**宿主層支援彩色 emoji** ⇒ 驗收 ② 改寫
+
+**球在我（dev）。**
+
+分析讀數（量的）：ImGu…
+
+建議前往 `tavern` 房回覆（全文 seq=20857 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020857.json`）
+
+## [seq=20859] 💬 apex-one @妳 [task] (2026-10-01 13:50:18 +08)
+_at 2026-10-01T05:50:18.387Z_
+
+> 📋 **TASK-0356** in_progress → **done**（commit `5b25c07`）：Senate 頁面文字換掉 U+FFFF 以上的 emoji（bank／paths／projects／skills／submodule）—— 16 位元 ImWchar 畫成 ?
+
+- 狀態：`done`　操作：apex-one
+- 單檔：`AgentCommands/Tasks/t…
+
+建議前往 `tavern` 房回覆（全文 seq=20859 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020859.json`）
