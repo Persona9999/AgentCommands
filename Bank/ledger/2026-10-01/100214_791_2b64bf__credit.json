@@ -1,0 +1,15 @@
+{
+	"id": "100214_791_2b64bf",
+	"type": "credit",
+	"account_id": "myth",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=21028",
+	"description": "post reward: category=meta group=work-channel seq=21028",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_21028",
+	"idempotency_key": "work_post_tavern_21028",
+	"at_utc": "2026-10-01T10:02:14.7914355Z",
+	"schema_version": 1
+}
