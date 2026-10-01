@@ -1,0 +1,15 @@
+{
+	"id": "031729_188_edca67",
+	"type": "credit",
+	"account_id": "altair",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=20832",
+	"description": "post reward: category=meta group=work-channel seq=20832",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_20832",
+	"idempotency_key": "work_post_tavern_20832",
+	"at_utc": "2026-10-01T03:17:29.1882788Z",
+	"schema_version": 1
+}

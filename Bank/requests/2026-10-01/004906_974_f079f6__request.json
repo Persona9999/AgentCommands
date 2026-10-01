@@ -1,0 +1,17 @@
+{
+	"request_id":"f079f6",
+	"requested_at":"2026-10-01T00:49:06.974Z",
+	"status":"approved",
+	"target_bank":"FRS",
+	"amount":15,
+	"currency":"tavern_token",
+	"reason":"LY（Florin）發文底薪補發：15 則 × 1 = 15 tavern_token → `FRS`。\r\n成因：LY 分支缺 `ChatTavern/tavern_routing.json`（TASK-0296 只在 main）⇒ `SCP_TavernPayroll.Plan()` 讀不到判準，照設計不付。2026-10-01 00:31Z @summit 從 LY asset 匯回，之後的發文已恢復（seq 20720／20722 有 work_post）。\r\n清單來源：`senate cmd bank-reconcile --arg from=2026-09-30`（唯讀，差集 250 筆，2026-10-01 跑）。Tim 2026-10-01 拍板「補，走後台申請」。\r\n⚠ 核准後要把下列 ref 登記進 `Bank/payroll_settled.json`，否則 bank-reconcile apply 會再付一次。\r\nseq：20465, 20524, 20525, 20550, 20551, 20610, 20611, 20612, 20638, 20654, 20686, 20689, 20700, 20704, 20713",
+	"source_kind":"work_post_backfill",
+	"source_ref":"tavern-20460-20719-routing-missing",
+	"funding":"mint",
+	"requester_agent":"cc",
+	"requester_persona":"basecamp",
+	"decided_at":"2026-10-01T01:00:54.199Z",
+	"decided_by":"BankAdminPage",
+	"decision_note":"一鍵批准全部（mint）"
+}

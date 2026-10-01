@@ -1,0 +1,14 @@
+{
+	"id": "010004_227_774174",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 57,
+	"currency": "tavern_token",
+	"kind": "payout_request",
+	"ref": "591929",
+	"description": "LY（Florin）發文底薪補發：57 則 × 1 = 57 tavern_token → `cc`。\r\n成因：LY 分支缺 `ChatTavern/tavern_routing.json`（TASK-0296 只在 main）⇒ `SCP_TavernPayroll.Plan()` 讀不到判準，照設計不付。2026-10-01 00:31Z @summit 從 LY asset 匯回，之後的發文已恢復（seq 20720／20722 有 work_post）。\r\n清單來源：`senate cmd bank-reconcile --arg from=2026-09-30`（唯讀，差集 250 筆，2026-10-01 跑）。Tim 2026-10-01 拍板「補，走後台申請」。\r\n⚠ 核准後要把下列 ref 登記進 `Bank/payroll_settled.json`，否則 bank-reconcile apply 會再付一次。\r\nseq：20460, 20462, 20473, 20474, 20475, 20476, 20477, 20478, 20485, 20489, 20490, 20495, 20496, 20504, 20505, 20508, 20509, 20512, 20513, 20515, 20533, 20534, 20535, 20537, 20538, 20554, 20555, 20570, 20575, 20579, 20580, 20581, 20582, 20584, 20586, 20587, 20615, 20616, 20619, 20637, 20640, 20647, 20649, 20656, 20662, 20668, 20674, 20678, 20680, 20684, 20696, 20697, 20699, 20703, 20705, 20711, 20716",
+	"caller": "BankAdminPage",
+	"idempotency_key": "payout/591929",
+	"at_utc": "2026-10-01T01:00:04.2277041Z",
+	"schema_version": 1
+}

@@ -1,0 +1,14 @@
+{
+	"id": "030523_416_0b12fb",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 10,
+	"currency": "tavern_token",
+	"kind": "payout_request",
+	"ref": "4eb206",
+	"description": "績效獎金 10 tavern_token → `cc`（basecamp）。Tim 2026-10-01 指示開單。\n事由：當日查出並修正「一鍵批准全部」重複付款（Senate 53355c6）、TASK-0361 收尾（publish＋活體讀數＋結單）、TASK-0353 PM 驗收結單。\n⚠ 本單也是 53355c6「全部核准」新按鈕的第一份活體讀數：核准後請看回報那一行是否為「✅ 動錢並結單 1」、清單是否刷新成 0 張、帳上 payout_request ref=本單號 的入帳腳是否只有一筆。　[tx=payout/4eb206] 轉入←pacific-standard-public-deposit-bank",
+	"caller": "BankAdminPage",
+	"idempotency_key": "payout/4eb206/in",
+	"at_utc": "2026-10-01T03:05:23.4162621Z",
+	"schema_version": 1
+}

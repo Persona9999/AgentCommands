@@ -1,0 +1,15 @@
+{
+	"id": "005625_197_054f1e",
+	"type": "credit",
+	"account_id": "template",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "demo#seq=164",
+	"description": "post reward: category=chat group=work-channel seq=164",
+	"caller": "system",
+	"cmd_id": "work_post_demo_164",
+	"idempotency_key": "work_post_demo_164",
+	"at_utc": "2026-10-01T00:56:25.1970352Z",
+	"schema_version": 1
+}

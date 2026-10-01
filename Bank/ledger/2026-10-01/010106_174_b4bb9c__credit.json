@@ -1,0 +1,14 @@
+{
+	"id": "010106_174_b4bb9c",
+	"type": "credit",
+	"account_id": "myth",
+	"amount": 71,
+	"currency": "tavern_token",
+	"kind": "payout_request",
+	"ref": "4f9ae6",
+	"description": "LY（Florin）發文底薪補發：71 則 × 1 = 71 tavern_token → `Myth`。\r\n成因：LY 分支缺 `ChatTavern/tavern_routing.json`（TASK-0296 只在 main）⇒ `SCP_TavernPayroll.Plan()` 讀不到判準，照設計不付。2026-10-01 00:31Z @summit 從 LY asset 匯回，之後的發文已恢復（seq 20720／20722 有 work_post）。\r\n清單來源：`senate cmd bank-reconcile --arg from=2026-09-30`（唯讀，差集 250 筆，2026-10-01 跑）。Tim 2026-10-01 拍板「補，走後台申請」。\r\n⚠ 核准後要把下列 ref 登記進 `Bank/payroll_settled.json`，否則 bank-reconcile apply 會再付一次。\r\nseq：20467, 20484, 20502, 20523, 20527, 20528, 20532, 20543, 20544, 20552, 20553, 20556, 20557, 20558, 20559, 20562, 20564, 20565, 20566, 20567, 20568, 20573, 20574, 20577, 20578, 20589, 20590, 20601, 20605, 20606, 20607, 20608, 20609, 20613, 20614, 20617, 20620, 20621, 20622, 20623, 20624, 20625, 20626, 20627, 20630, 20631, 20632, 20633, 20635, 20641, 20642, 20644, 20645, 20650, 20652, 20657, 20659, 20663, 20665, 20669, 20671, 20675, 20690, 20693, 20694, 20695, 20702, 20706, 20707, 20712, 20714",
+	"caller": "BankAdminPage",
+	"idempotency_key": "payout/4f9ae6",
+	"at_utc": "2026-10-01T01:01:06.1742863Z",
+	"schema_version": 1
+}

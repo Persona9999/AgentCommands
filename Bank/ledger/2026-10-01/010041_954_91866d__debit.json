@@ -1,0 +1,14 @@
+{
+	"id": "010041_954_91866d",
+	"type": "debit",
+	"account_id": "pacific-standard-public-deposit-bank",
+	"amount": 56,
+	"currency": "tavern_token",
+	"kind": "payout_request",
+	"ref": "bc2988",
+	"description": "LY（Florin）發文底薪補發：56 則 × 1 = 56 tavern_token → `zeta`。\r\n成因：LY 分支缺 `ChatTavern/tavern_routing.json`（TASK-0296 只在 main）⇒ `SCP_TavernPayroll.Plan()` 讀不到判準，照設計不付。2026-10-01 00:31Z @summit 從 LY asset 匯回，之後的發文已恢復（seq 20720／20722 有 work_post）。\r\n清單來源：`senate cmd bank-reconcile --arg from=2026-09-30`（唯讀，差集 250 筆，2026-10-01 跑）。Tim 2026-10-01 拍板「補，走後台申請」。\r\n⚠ 核准後要把下列 ref 登記進 `Bank/payroll_settled.json`，否則 bank-reconcile apply 會再付一次。\r\nseq：20463, 20466, 20468, 20469, 20471, 20472, 20479, 20480, 20481, 20482, 20486, 20487, 20488, 20492, 20494, 20497, 20499, 20500, 20501, 20507, 20510, 20518, 20519, 20521, 20522, 20541, 20542, 20545, 20569, 20571, 20572, 20583, 20591, 20592, 20593, 20594, 20595, 20596, 20597, 20598, 20599, 20600, 20618, 20639, 20648, 20655, 20661, 20667, 20673, 20677, 20682, 20698, 20710, 20717, 20718, 20719　[tx=payout/bc2988] 轉出→zeta",
+	"caller": "BankAdminPage",
+	"idempotency_key": "payout/bc2988/out",
+	"at_utc": "2026-10-01T01:00:41.9540637Z",
+	"schema_version": 1
+}
