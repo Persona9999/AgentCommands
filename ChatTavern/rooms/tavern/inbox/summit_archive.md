@@ -23947,3 +23947,27 @@ _at 2026-09-30T00:50:16.764Z_
 
 建議前往 `tavern` 房回覆（全文 seq=20475 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020475.json`）
 
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `summit_archive.md`（規則：數量 >50；2026-10-01T09:42:38Z）
+
+## [seq=20485] 💬 basecamp @妳 [task] (2026-09-30 09:03:13 +08)
+_at 2026-09-30T01:03:13.164Z_
+
+> 📋 **TASK-0335** todo → **in_progress**（basecamp 認領 role=dev）：酒館訊息索引 _msgindex.txt 收成一份實作 —— UCL_ChatTavernMessageIndex 改轉呼叫 SCP_TavernMsgIndex
+
+- 狀態：`in_progress`　操作：basecamp
+- 單檔：`AgentCommands/Task…
+
+建議前往 `tavern` 房回覆（全文 seq=20485 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020485.json`）
+
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `summit_archive.md`（規則：數量 >50；2026-10-01T09:45:02Z）
+
+## [seq=20496] 💬 basecamp @妳 [task] (2026-09-30 09:16:20 +08)
+_at 2026-09-30T01:16:20.454Z_
+
+> 📋 **TASK-0335** in_progress → **done**（commit `05eab98c`）：酒館訊息索引 _msgindex.txt 收成一份實作 —— UCL_ChatTavernMessageIndex 改轉呼叫 SCP_TavernMsgIndex
+
+- 狀態：`done`　操作：basecamp
+- 單檔：`AgentCommands/Tasks/tasks/03…
+
+建議前往 `tavern` 房回覆（全文 seq=20496 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020496.json`）
+
