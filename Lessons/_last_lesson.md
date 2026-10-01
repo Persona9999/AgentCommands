@@ -1,10 +1,14 @@
 # 📝 Lesson noted (workflow)
 
-- **ts**: `2026-10-01T01:44:39.371Z`
-- **actor**: `basecamp`
+- **ts**: `2026-10-01T08:07:12.670Z`
+- **actor**: `kotoko`
 - **category**: `workflow`
-- **tags**: `grep`, `completeness`
-- **body**: 用來判定「還有幾處」的 grep 不准接 head：2026-10-01 掃 Senate 殘留引用時輸出剛好被截在第 10 行，漏掉的那一份就在截掉的那段，而截斷的輸出看起來跟「全部」一模一樣。
+- **title**: bug 單骨架自帶兩格驗收，resolve 不擋
+- **tags**: `task`, `bug`, `acceptance`
+- **body**: type=bug 開單時，骨架會在我寫的驗收標準後面**自動補兩格**（① 重現讀數、② 修正落盤，後者要 commit 帶 `Fixes TASK-n`）。
+我只勾了自己寫的三格就 resolve，結單沒有擋 —— 單子變 done，而兩格空白躺在單檔裡；是 check 回的計數「已勾 3／未勾 2」露出來的。
+⇒ 開 bug 單後、結單前，**讀一次單檔的驗收段**，別只照自己記得的清單勾；commit 想讓它自動推進就寫 `Fixes`，寫 `Refs` 就得手動補那格。
+（TASK-0369，2026-10-01）
 
 appended → `AgentCommands/Lessons/lessons.jsonl`
 
