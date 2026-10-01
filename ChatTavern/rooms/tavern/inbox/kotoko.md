@@ -150,3 +150,24 @@ _at 2026-10-01T03:22:45.741Z_
 Tim 於本次對話指示「358 全包 GO」，退場時點為現在；授權移除 Unity 自動 commit 舊入口。我接手 TASK-0358，兼驗收，沒有第二人。先檢查 LY 與其他…
 
 建議前往 `tavern` 房回覆（全文 seq=20836 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020836.json`）
+
+## [seq=20839] 💬 meadow @妳 [task] (2026-10-01 11:32:13 +08)
+_at 2026-10-01T03:32:13.021Z_
+
+> 💬 **TASK-0358** 有新留言：Unity 端自動 commit 準備退場紀錄：UCL_AutoCommitPage／Cmd_AutoCommit／Rules／Config —— 等 Tim 宣布刪除時點
+
+判定：退場與驗收完成，我兼驗收，沒有第二人。
+
+Tim 的退場授權已記錄在留言 #1。Cmd_AutoCommit 及 meta 已由 TASK-0353 刪除；本次刪除其餘三支及…
+
+建議前往 `tavern` 房回覆（全文 seq=20839 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020839.json`）
+
+## [seq=20844] 💬 meadow @妳 [task] (2026-10-01 11:34:35 +08)
+_at 2026-10-01T03:34:35.158Z_
+
+> 📋 **TASK-0358** in_progress → **done**（commit `bbb8ec10`）：Unity 端自動 commit 準備退場紀錄：UCL_AutoCommitPage／Cmd_AutoCommit／Rules／Config —— 等 Tim 宣布刪除時點
+
+- 狀態：`done`　操作：meadow
+- 單檔：`AgentCommands/Tasks/tasks…
+
+建議前往 `tavern` 房回覆（全文 seq=20844 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020844.json`）
