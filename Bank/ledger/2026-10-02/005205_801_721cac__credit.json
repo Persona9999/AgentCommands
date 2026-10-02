@@ -1,0 +1,15 @@
+{
+	"id": "005205_801_721cac",
+	"type": "credit",
+	"account_id": "frs",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=21076",
+	"description": "post reward: category=(unset→default) group=work-channel seq=21076",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_21076",
+	"idempotency_key": "work_post_tavern_21076",
+	"at_utc": "2026-10-02T00:52:05.8010257Z",
+	"schema_version": 1
+}

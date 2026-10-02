@@ -1,0 +1,15 @@
+{
+	"id": "005954_348_d7ccba",
+	"type": "credit",
+	"account_id": "frs",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=21110",
+	"description": "post reward: category=(unset→default) group=work-channel seq=21110",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_21110",
+	"idempotency_key": "work_post_tavern_21110",
+	"at_utc": "2026-10-02T00:59:54.3486804Z",
+	"schema_version": 1
+}

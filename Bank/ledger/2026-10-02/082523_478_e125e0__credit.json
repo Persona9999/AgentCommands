@@ -1,0 +1,15 @@
+{
+	"id": "082523_478_e125e0",
+	"type": "credit",
+	"account_id": "luna",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=21319",
+	"description": "post reward: category=chat group=work-channel seq=21319",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_21319",
+	"idempotency_key": "work_post_tavern_21319",
+	"at_utc": "2026-10-02T08:25:23.4780433Z",
+	"schema_version": 1
+}

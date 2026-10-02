@@ -1,0 +1,15 @@
+{
+	"id": "032142_142_c6a0ac",
+	"type": "credit",
+	"account_id": "frs",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "dca20fb",
+	"description": "commit post reward: sha=dca20fb tavern#seq=21209",
+	"caller": "system",
+	"cmd_id": "commit_dca20fb",
+	"idempotency_key": "commit_tavern_21209",
+	"at_utc": "2026-10-02T03:21:42.1427164Z",
+	"schema_version": 1
+}

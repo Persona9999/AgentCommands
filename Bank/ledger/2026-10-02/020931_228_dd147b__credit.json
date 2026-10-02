@@ -1,0 +1,15 @@
+{
+	"id": "020931_228_dd147b",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "bdb2492",
+	"description": "commit post reward: sha=bdb2492 tavern#seq=21176",
+	"caller": "system",
+	"cmd_id": "commit_bdb2492",
+	"idempotency_key": "commit_tavern_21176",
+	"at_utc": "2026-10-02T02:09:31.2289683Z",
+	"schema_version": 1
+}
