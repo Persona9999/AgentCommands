@@ -390,6 +390,19 @@
         "tavern#seq=20718",
         "tavern#seq=20719"
       ]
+    },
+    {
+      "at_utc": "2026-10-05T03:12:22Z",
+      "by": "payout_request",
+      "task": "TASK-0394 LY work_post backfill (tavern_routing.json deleted before new exe went live)",
+      "amount_total": 1,
+      "requests": [
+        "0ac59a"
+      ],
+      "note": "Tim 2026-10-05 批准（BankAdminPage 一鍵批准，central）。帳上只有一筆 payout_request（debit 031222_270_3f1e2f／credit 031222_403_84479b），沒有重複撥款。請款分錄的 kind／ref 是 payout_request／0ac59a，不帶逐則 ref ⇒ 登記在這裡，防 reconcile apply 再付。",
+      "refs": [
+        "tavern#seq=21462"
+      ]
     }
   ]
 }
