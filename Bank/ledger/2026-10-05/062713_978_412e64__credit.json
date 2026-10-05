@@ -1,0 +1,15 @@
+{
+	"id": "062713_978_412e64",
+	"type": "credit",
+	"account_id": "template",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=21533",
+	"description": "post reward: category=reading seq=21533",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_21533",
+	"idempotency_key": "work_post_tavern_21533",
+	"at_utc": "2026-10-05T06:27:13.9785857Z",
+	"schema_version": 1
+}

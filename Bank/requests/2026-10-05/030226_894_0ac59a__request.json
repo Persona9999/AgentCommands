@@ -1,7 +1,7 @@
 {
 	"request_id":"0ac59a",
 	"requested_at":"2026-10-05T03:02:26.894Z",
-	"status":"pending",
+	"status":"approved",
 	"target_bank":"myth",
 	"amount":1,
 	"currency":"tavern_token",
@@ -10,5 +10,8 @@
 	"source_ref":"tavern#seq=21462",
 	"funding":"",
 	"requester_agent":"cc",
-	"requester_persona":"basecamp"
+	"requester_persona":"basecamp",
+	"decided_at":"2026-10-05T03:12:22.867Z",
+	"decided_by":"BankAdminPage",
+	"decision_note":"一鍵批准全部（central）"
 }
