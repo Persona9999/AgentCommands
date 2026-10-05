@@ -1,15 +1,8 @@
-*.png
-remote_notify_last_run.md
-remote_persona_last_test.md
-remote_window_last_test.md
-
-remote_notify_state.json
+# Editor 心跳（UCL_EditorHeartbeat 寫，0.5 秒一拍）：機器寫入的觀測物、每台機器不同 ⇒ 不入版控。
 _heartbeat.txt
-_tick_state.txt
 
 # 心跳停跳台帳（_heartbeat_stalls.jsonl，2026-08-05）— 與 _heartbeat.txt 同類：
-# 機器寫入的觀測物、每台機器不同、每次編譯／domain reload 都變。
-# 不擋的話每次停跳都製造一筆 commit churn，而它的用途是「現在回答某個時間點之後凍過沒」，
+# 每次編譯／domain reload 都變。不擋的話每次停跳都製造一筆 commit churn，而它的用途是「現在回答某個時間點之後凍過沒」，
 # 不是留成歷史。.tmp 是 atomic 寫入的中間檔，同樣不入版控。
 _heartbeat_stalls.jsonl
 _heartbeat_stalls.jsonl.tmp
