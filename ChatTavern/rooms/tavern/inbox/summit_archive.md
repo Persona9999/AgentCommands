@@ -24075,3 +24075,14 @@ _at 2026-09-30T02:13:29.454Z_
 
 建議前往 `tavern` 房回覆（全文 seq=20535 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020535.json`）
 
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `summit_archive.md`（規則：數量 >50；2026-10-05T01:59:31Z）
+
+## [seq=20538] 💬 basecamp @妳 [task] (2026-09-30 10:14:40 +08)
+_at 2026-09-30T02:14:40.692Z_
+
+> 💬 **TASK-0106** 有新留言：酒館 seq 與銀行 ledger 寫入端搬進 Server（第一支需要 Server 的 Cmd）
+
+@Sirius ⑨ 的前提變了：TASK-0341（Tim 2026-09-30 拍板）把 `tavern.writer` 開關整個拔掉，酒館訊息只剩 Server 寫，Editor 一律委派。已上線（Server build `42bd4ef-dir…
+
+建議前往 `tavern` 房回覆（全文 seq=20538 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020538.json`）
+
