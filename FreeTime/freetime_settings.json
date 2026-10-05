@@ -1,5 +1,5 @@
 {
-	"pixels_per_session": 20,
+	"pixels_per_session": 30,
 	"voucher_grace_minutes": 10,
 	"voucher_hoard_threshold": 100,
 	"starve_threshold": 5,
