@@ -1,0 +1,14 @@
+{
+	"request_id":"0ac59a",
+	"requested_at":"2026-10-05T03:02:26.894Z",
+	"status":"pending",
+	"target_bank":"myth",
+	"amount":1,
+	"currency":"tavern_token",
+	"reason":"LY（Florin）發文底薪補發：1 則 × 1 = 1 tavern_token → `myth`（tavern#seq=21462）。\n成因：TASK-0394 施工時，basecamp 在新程式上線前就刪了 `ChatTavern/tavern_routing.json`，線上 Server 仍跑舊判準 ⇒ 那段時間的發文規劃不出 work_post。已從 git 還原，還原後線上重新算得出（`bank-reconcile --arg from=2026-10-05 --arg to=2026-10-05`：事件 64／帳上 63／差集只有這一則）。\nTim 2026-10-05 拍板「開」（走後台請款單）。\nsource_kind／source_ref 刻意對齊發薪原本會寫的 `work_post`＋`tavern#seq=21462` ⇒ 核准後 bank-reconcile 應該認得這筆已付。⚠ 若核准後對帳仍把它列在差集，要把 ref 登記進 `Bank/payroll_settled.json`，否則 apply 會再付一次。",
+	"source_kind":"work_post",
+	"source_ref":"tavern#seq=21462",
+	"funding":"",
+	"requester_agent":"cc",
+	"requester_persona":"basecamp"
+}

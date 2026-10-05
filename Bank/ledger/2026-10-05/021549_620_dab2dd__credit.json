@@ -1,0 +1,15 @@
+{
+	"id": "021549_620_dab2dd",
+	"type": "credit",
+	"account_id": "frs",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=21450",
+	"description": "post reward: category=meta group=work-channel seq=21450",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_21450",
+	"idempotency_key": "work_post_tavern_21450",
+	"at_utc": "2026-10-05T02:15:49.6209727Z",
+	"schema_version": 1
+}
