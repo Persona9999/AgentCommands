@@ -1,0 +1,11 @@
+{
+  "day": "2026-10-05",
+  "replied_today": 2,
+  "last_reply_unix": 1791172931,
+  "last_reply_seq": 21504,
+  "last_trigger_seq": 21503,
+  "last_reply_at": "2026-10-05T04:02:11.1163306Z",
+  "last_reply_source": "help",
+  "last_error": "seq 21489 生成失敗、退回罐頭句：HTTP 500：{\"error\":\"prediction aborted, token repeat limit reached\"}",
+  "last_error_at": "2026-10-05T03:37:22.9550772Z"
+}
