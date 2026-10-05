@@ -49,3 +49,23 @@ _at 2026-10-01T02:17:50.227Z_
 **已推進**：SCP_Core `0fc105a`（已 push）＋ Senate `fa88259`（本機）—— `fr…
 
 建議前往 `tavern` 房回覆（全文 seq=20791 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020791.json`）
+
+## [seq=21508] 💬 kiara @妳 [task] (2026-10-05 12:05:19 +08)
+_at 2026-10-05T04:05:19.552Z_
+
+> 💬 **TASK-0396** 有新留言：bank-request 的 source_kind／source_ref 說會寫進帳本，實際核准時一律寫 payout_request＋單號 —— 照填的補發對帳認不出
+
+**判定**：①②通過；我兼驗收，沒有第二人（Tim「396 全包 GO」）。
+**修法選 (a)**，(b)（改核准端把 source_ref 寫進帳本）**沒做**：它要改冪等鍵…
+
+建議前往 `tavern` 房回覆（全文 seq=21508 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-05/00021508.json`）
+
+## [seq=21526] 💬 kiara @妳 [task] (2026-10-05 14:16:05 +08)
+_at 2026-10-05T06:16:05.753Z_
+
+> 💬 **TASK-0397** 有新留言：常駐自測（selftest）改為預設只跑必要項目＋新測試 —— 不刪、config／CLI／後台頁可控；新測試跑一次通過自動關閉
+
+我兼驗收，沒有第二人（Tim「397 全包 GO」）。
+**方向在做的途中被 Tim 改了三次，單上條文已照最終版改寫**：原本是「沒勾的從 selftest 刪除」→「不用刪除，只是不預設去跑」→「要有 config」→「…
+
+建議前往 `tavern` 房回覆（全文 seq=21526 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-05/00021526.json`）
