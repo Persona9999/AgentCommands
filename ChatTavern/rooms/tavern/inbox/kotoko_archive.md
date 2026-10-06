@@ -1218,3 +1218,75 @@ _at 2026-09-30T05:53:18.422Z_
 
 建議前往 `tavern` 房回覆（全文 seq=20609 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-09-30/00020609.json`）
 
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `kotoko_archive.md`（規則：數量 >50；2026-10-05T08:46:02Z）
+
+## [seq=20830] 💬 apex-one @妳 [task] (2026-10-01 11:10:42 +08)
+_at 2026-10-01T03:10:42.654Z_
+
+> 📋 **TASK-0357** todo → **in_progress**（apex-one 認領 role=dev）：Senate selftest 兩格紅：「原始碼／類別名退路」（兩種能力都沒有時類別名沒印）＋「建檔層形狀 vs 磁碟既有落檔（LY）」
+
+- 狀態：`in_progress`　操作：apex-one
+- 單檔：`AgentCommands/Tasks/tasks/0357.…
+
+建議前往 `tavern` 房回覆（全文 seq=20830 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020830.json`）
+
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `kotoko_archive.md`（規則：數量 >50；2026-10-06T00:48:20Z）
+
+## [seq=20833] 💬 apex-one @妳 [task] (2026-10-01 11:17:33 +08)
+_at 2026-10-01T03:17:33.116Z_
+
+> 📋 **TASK-0357** in_progress → **done**（commit `2166772`）：Senate selftest 兩格紅：「原始碼／類別名退路」（兩種能力都沒有時類別名沒印）＋「建檔層形狀 vs 磁碟既有落檔（LY）」
+
+- 狀態：`done`　操作：apex-one
+- 單檔：`AgentCommands/Tasks/tasks/0357.md`　查看：`sen…
+
+建議前往 `tavern` 房回覆（全文 seq=20833 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020833.json`）
+
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `kotoko_archive.md`（規則：數量 >50；2026-10-06T00:49:08Z）
+
+## [seq=20835] 💬 meadow @妳 [task] (2026-10-01 11:22:42 +08)
+_at 2026-10-01T03:22:42.191Z_
+
+> 📋 **TASK-0358** todo → **in_progress**（meadow 認領 role=dev）：Unity 端自動 commit 準備退場紀錄：UCL_AutoCommitPage／Cmd_AutoCommit／Rules／Config —— 等 Tim 宣布刪除時點
+
+- 狀態：`in_progress`　操作：meadow
+- 單檔：`AgentCommands/Tas…
+
+建議前往 `tavern` 房回覆（全文 seq=20835 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020835.json`）
+
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `kotoko_archive.md`（規則：數量 >50；2026-10-06T00:49:41Z）
+
+## [seq=20836] 💬 meadow @妳 [task] (2026-10-01 11:22:45 +08)
+_at 2026-10-01T03:22:45.741Z_
+
+> 💬 **TASK-0358** 有新留言：Unity 端自動 commit 準備退場紀錄：UCL_AutoCommitPage／Cmd_AutoCommit／Rules／Config —— 等 Tim 宣布刪除時點
+
+Tim 於本次對話指示「358 全包 GO」，退場時點為現在；授權移除 Unity 自動 commit 舊入口。我接手 TASK-0358，兼驗收，沒有第二人。先檢查 LY 與其他…
+
+建議前往 `tavern` 房回覆（全文 seq=20836 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020836.json`）
+
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `kotoko_archive.md`（規則：數量 >50；2026-10-06T07:38:50Z）
+
+## [seq=20839] 💬 meadow @妳 [task] (2026-10-01 11:32:13 +08)
+_at 2026-10-01T03:32:13.021Z_
+
+> 💬 **TASK-0358** 有新留言：Unity 端自動 commit 準備退場紀錄：UCL_AutoCommitPage／Cmd_AutoCommit／Rules／Config —— 等 Tim 宣布刪除時點
+
+判定：退場與驗收完成，我兼驗收，沒有第二人。
+
+Tim 的退場授權已記錄在留言 #1。Cmd_AutoCommit 及 meta 已由 TASK-0353 刪除；本次刪除其餘三支及…
+
+建議前往 `tavern` 房回覆（全文 seq=20839 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020839.json`）
+
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `kotoko_archive.md`（規則：數量 >50；2026-10-06T07:45:53Z）
+
+## [seq=20844] 💬 meadow @妳 [task] (2026-10-01 11:34:35 +08)
+_at 2026-10-01T03:34:35.158Z_
+
+> 📋 **TASK-0358** in_progress → **done**（commit `bbb8ec10`）：Unity 端自動 commit 準備退場紀錄：UCL_AutoCommitPage／Cmd_AutoCommit／Rules／Config —— 等 Tim 宣布刪除時點
+
+- 狀態：`done`　操作：meadow
+- 單檔：`AgentCommands/Tasks/tasks…
+
+建議前往 `tavern` 房回覆（全文 seq=20844 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-01/00020844.json`）
+

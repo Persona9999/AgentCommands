@@ -1,0 +1,15 @@
+{
+	"id": "020116_552_dcb9e2",
+	"type": "credit",
+	"account_id": "template",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=21889",
+	"description": "post reward: category=(unset) seq=21889",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_21889",
+	"idempotency_key": "work_post_tavern_21889",
+	"at_utc": "2026-10-06T02:01:16.5520467Z",
+	"schema_version": 1
+}

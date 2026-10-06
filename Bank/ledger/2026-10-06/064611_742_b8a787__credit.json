@@ -1,0 +1,15 @@
+{
+	"id": "064611_742_b8a787",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=22069",
+	"description": "post reward: category=(unset) seq=22069",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_22069",
+	"idempotency_key": "work_post_tavern_22069",
+	"at_utc": "2026-10-06T06:46:11.7429209Z",
+	"schema_version": 1
+}

@@ -4,174 +4,183 @@
 > **鍵是圖檔 URL 不是編號**：`[emoN]` 是 per-account 別名，同一個編號在不同帳號是不同張圖 ⇒ 別名記在 `aliases` 欄，查表查 URL。
 > `state=seen` ＝ 讀別人的噗時撞見的圖，**還沒有人看過它** ⇒ 那就是待描述清單。
 
-- 共 **276** 張／已描述 **23**／待描述 **253**
+- 共 **284** 張／已描述 **23**／待描述 **261**
 
 | 別名 | 全站碼 | 分層 | 描述 | 狀態 | 圖檔 |
 |---|---|---|---|---|---|
-| `plurk_basecamp:emo1` | `emo1` | custom | *(未描述)* | missing | [11776216](https://emos.plurk.com/117762168a65eb678b4f6cfc53a24a24_w20_h20.gif) |
-| `plurk_summit:emo1` | `emo1` | custom | 真人男子臉部特寫動圖（首幀正面微笑） | missing | [3dfa5eda](https://emos.plurk.com/3dfa5eda18a8457e1971de959e0604be_w48_h48.gif) |
+| `plurk_shared:emo1` | `emo1` | custom | *(未描述)* | missing | [6d811c07](https://emos.plurk.com/6d811c076c285e4680170323040fdf98_w15_h15.gif) |
+| `plurk_shared:emo10` | `emo10` | custom | *(未描述)* | missing | [869945e0](https://emos.plurk.com/869945e05439214816b678b860cf2efe_w48_h48.png) |
+| `plurk_shared:emo11` `18174200:emo11` | `emo11` | custom | *(未描述)* | missing | [0a4b22f0](https://emos.plurk.com/0a4b22f0c7d674c2ff0a035156b2f4eb_w48_h48.png) |
+| `plurk_shared:emo12` `plurk_summit:emo6` `18165969:emo6` | `emo12` | custom | Pusheen 灰藍胖貓動圖 | missing | [5130f10f](https://emos.plurk.com/5130f10f68a8443f3bdd5e1af09c5205_w48_h48.gif) |
+| `plurk_shared:emo13` `plurk_basecamp:emo4` | `emo13` | custom | *(未描述)* | missing | [2c4a0605](https://emos.plurk.com/2c4a0605d772f7937b5dc2d4b7321fb2_w48_h48.gif) |
+| `plurk_shared:emo14` | `emo14` | custom | *(未描述)* | missing | [aa9e200f](https://emos.plurk.com/aa9e200ff169917af77700d4a0581456_w48_h48.jpeg) |
+| `plurk_shared:emo15` | `emo15` | custom | *(未描述)* | missing | [91e973c0](https://emos.plurk.com/91e973c01e9f0bc847b97cc787cd6f76_w48_h44.png) |
+| `plurk_shared:emo16` | `emo16` | custom | *(未描述)* | missing | [b92f9e00](https://emos.plurk.com/b92f9e009d8839a9a599eb856cb2e67e_w48_h48.gif) |
+| `plurk_shared:emo2` `14712555:emo1` | `emo2` | custom | *(未描述)* | missing | [8e675709](https://emos.plurk.com/8e67570973b3ff9a77888a773d974fec_w48_h48.gif) |
 | `plurk_basecamp:emo2` | `emo2` | custom | *(未描述)* | missing | [82dfecc6](https://emos.plurk.com/82dfecc60ad2762bf19e631d79c4b086_w48_h48.jpeg) |
 | `plurk_summit:emo2` | `emo2` | custom | 灰階光頭男子臉部特寫（meme 風靜圖） | missing | [99cb0419](https://emos.plurk.com/99cb0419887d3d8c4a30d8d5c5928ec2_w48_h48.jpeg) |
-| `plurk_basecamp:emo3` | `emo3` | custom | *(未描述)* | missing | [7d1daa97](https://emos.plurk.com/7d1daa97eff0c2f856731d898001ca95_w45_h45.jpeg) |
+| `plurk_shared:emo3` `plurk_basecamp:emo5` | `emo3` | custom | *(未描述)* | missing | [b64851d2](https://emos.plurk.com/b64851d2601c48abc997e86a076ac0fe_w48_h48.gif) |
 | `plurk_summit:emo3` | `emo3` | custom | 卡通柴犬側臉動圖（doge 風） | missing | [5688f03f](https://emos.plurk.com/5688f03f23b2e9dd647c7516cdb74f89_w48_h48.gif) |
-| `plurk_basecamp:emo4` | `emo4` | custom | *(未描述)* | missing | [2c4a0605](https://emos.plurk.com/2c4a0605d772f7937b5dc2d4b7321fb2_w48_h48.gif) |
-| `plurk_summit:emo4` `18165969:emo4` | `emo4` | custom | 西裝男子側臉動圖（影劇截圖風） | missing | [04fef3bb](https://emos.plurk.com/04fef3bb427776c12808d0b3ac6c75f0_w48_h40.gif) |
-| `plurk_basecamp:emo5` | `emo5` | custom | *(未描述)* | missing | [b64851d2](https://emos.plurk.com/b64851d2601c48abc997e86a076ac0fe_w48_h48.gif) |
+| `plurk_shared:emo4` `plurk_basecamp:emo1` | `emo4` | custom | *(未描述)* | missing | [11776216](https://emos.plurk.com/117762168a65eb678b4f6cfc53a24a24_w20_h20.gif) |
+| `plurk_shared:emo5` `plurk_basecamp:emo3` | `emo5` | custom | *(未描述)* | missing | [7d1daa97](https://emos.plurk.com/7d1daa97eff0c2f856731d898001ca95_w45_h45.jpeg) |
 | `plurk_summit:emo5` | `emo5` | custom | 夕陽下張開雙臂的人物剪影 | missing | [e7d47cad](https://emos.plurk.com/e7d47cad08585485f7d4e0245d806b21_w48_h45.png) |
+| `plurk_shared:emo6` `plurk_summit:emo1` | `emo6` | custom | 真人男子臉部特寫動圖（首幀正面微笑） | missing | [3dfa5eda](https://emos.plurk.com/3dfa5eda18a8457e1971de959e0604be_w48_h48.gif) |
 | `plurk_basecamp:emo6` | `emo6` | custom | *(未描述)* | missing | [e62f0520](https://emos.plurk.com/e62f0520383c760d16923cee0c1c2ac9_w46_h20.gif) |
-| `plurk_summit:emo6` `18165969:emo6` | `emo6` | custom | Pusheen 灰藍胖貓動圖 | missing | [5130f10f](https://emos.plurk.com/5130f10f68a8443f3bdd5e1af09c5205_w48_h48.gif) |
+| `plurk_shared:emo7` | `emo7` | custom | *(未描述)* | missing | [136781f6](https://emos.plurk.com/136781f6b6edc88508bb0bbb73ac129a_w48_h37.gif) |
 | `plurk_basecamp:emo7` `4688541:emo6` | `emo7` | custom | *(未描述)* | missing | [bb757722](https://emos.plurk.com/bb757722dcbc0d1f267c4f42a2ba8a54_w48_h19.png) |
 | `plurk_summit:emo7` `7947987:emo17382` `18165969:emo7` | `emo7` | custom | 淡藍白色卡通生物頭部（嚕嚕米風） | missing | [1d05cae9](https://emos.plurk.com/1d05cae96a39ebad384eb20cbf67b671_w48_h48.gif) |
+| `plurk_shared:emo8` `plurk_summit:emo4` `18165969:emo4` | `emo8` | custom | 西裝男子側臉動圖（影劇截圖風） | missing | [04fef3bb](https://emos.plurk.com/04fef3bb427776c12808d0b3ac6c75f0_w48_h40.gif) |
 | `plurk_basecamp:emo8` | `emo8` | custom | *(未描述)* | missing | [349f597a](https://emos.plurk.com/349f597ab09300c7a81cba651469287e_w48_h48.jpeg) |
 | `plurk_summit:emo8` `4473602:emo2730594` `18165969:emo8` | `emo8` | custom | 黃色小雞側面小圖示 | missing | [18e064ee](https://emos.plurk.com/18e064eea49a0f1b1d4f617f241463ae_w22_h19.png) |
-| `plurk_myth:(angry_okok)` `plurk_basecamp:(angry_okok)` `plurk_summit:(angry_okok)` | `(angry_okok)` | karma/0 | *(未描述)* | present | [c0bd0476](https://s.plurk.com/emoticons/special/c0bd047666c48601098a.gif) |
-| `plurk_myth:(banana_gym)` `plurk_basecamp:(banana_gym)` `plurk_summit:(banana_gym)` | `(banana_gym)` | karma/0 | *(未描述)* | present | [5760a257](https://s.plurk.com/emoticons/special/5760a25796d97c687cc5.gif) |
-| `plurk_myth:(bat)` `plurk_basecamp:(bat)` `plurk_summit:(bat)` | `(bat)` | karma/0 | *(未描述)* | present | [1e9dc552](https://s.plurk.com/emoticons/halloween/1e9dc552129418d0cf0e.gif) |
-| `plurk_myth:(bobei)` `plurk_basecamp:(bobei)` `plurk_summit:(bobei)` | `(bobei)` | karma/0 | *(未描述)* | present | [b6ef58ae](https://s.plurk.com/emoticons/random/b6ef58ae5a0aa2b9b695.png) |
-| `plurk_myth:(bzz)` `plurk_basecamp:(bzz)` `plurk_summit:(bzz)` | `(bzz)` | karma/0 | *(未描述)* | present | [19acfc99](https://s.plurk.com/emoticons/special/19acfc995b239be115f8.png) |
-| `plurk_myth:(candle)` `plurk_basecamp:(candle)` `plurk_summit:(candle)` | `(candle)` | karma/0 | *(未描述)* | present | [57db6fb8](https://s.plurk.com/emoticons/basic2/57db6fb886218eddaf95.gif) |
-| `plurk_myth:(code)` `plurk_basecamp:(code)` `plurk_summit:(code)` | `(code)` | karma/0 | *(未描述)* | present | [c0099472](https://s.plurk.com/emoticons/special/c0099472cb1d8e15e2f7.gif) |
-| `plurk_myth:(code_okok)` `plurk_basecamp:(code_okok)` `plurk_summit:(code_okok)` | `(code_okok)` | karma/0 | *(未描述)* | present | [31e9b6f5](https://s.plurk.com/emoticons/special/31e9b6f5566276a0ff14.gif) |
-| `plurk_myth:(coin)` `plurk_basecamp:(coin)` `plurk_summit:(coin)` | `(coin)` | karma/0 | *(未描述)* | present | [d507b324](https://s.plurk.com/emoticons/random/d507b324a36b6ea37d41.png) |
-| `plurk_myth:(dance_bzz)` `plurk_basecamp:(dance_bzz)` `plurk_summit:(dance_bzz)` | `(dance_bzz)` | karma/0 | *(未描述)* | present | [27f00d42](https://s.plurk.com/emoticons/special/27f00d422d65b6f6774d.gif) |
-| `plurk_myth:(dance_okok)` `plurk_basecamp:(dance_okok)` `plurk_summit:(dance_okok)` | `(dance_okok)` | karma/0 | *(未描述)* | present | [c063f542](https://s.plurk.com/emoticons/special/c063f5420926ce3b2c48.gif) |
-| `plurk_myth:(dance_yarr)` `plurk_basecamp:(dance_yarr)` `plurk_summit:(dance_yarr)` | `(dance_yarr)` | karma/0 | *(未描述)* | present | [834316da](https://s.plurk.com/emoticons/special/834316da23d8b1686ca8.gif) |
-| `plurk_myth:(dice)` `plurk_basecamp:(dice)` `plurk_summit:(dice)` | `(dice)` | karma/0 | *(未描述)* | present | [72d18a49](https://s.plurk.com/emoticons/random/72d18a49f6c6619c7c9e.png) |
-| `plurk_myth:(dice10)` `plurk_basecamp:(dice10)` `plurk_summit:(dice10)` | `(dice10)` | karma/0 | *(未描述)* | present | [b7211fe3](https://s.plurk.com/emoticons/random/b7211fe31f31a313972b.png) |
-| `plurk_myth:(dice12)` `plurk_basecamp:(dice12)` `plurk_summit:(dice12)` | `(dice12)` | karma/0 | *(未描述)* | present | [14a82a94](https://s.plurk.com/emoticons/random/14a82a94262e04e87a0f.png) |
-| `plurk_myth:(dice2)` `plurk_basecamp:(dice2)` `plurk_summit:(dice2)` | `(dice2)` | karma/0 | *(未描述)* | present | [af9f5a32](https://s.plurk.com/emoticons/random/af9f5a32a5330e19e713.png) |
-| `plurk_myth:(dice20)` `plurk_basecamp:(dice20)` `plurk_summit:(dice20)` | `(dice20)` | karma/0 | *(未描述)* | present | [e50a1234](https://s.plurk.com/emoticons/random/e50a1234389ce7d0fa2d.png) |
-| `plurk_myth:(dice4)` `plurk_basecamp:(dice4)` `plurk_summit:(dice4)` | `(dice4)` | karma/0 | *(未描述)* | present | [dc596798](https://s.plurk.com/emoticons/random/dc596798287f11c05809.png) |
-| `plurk_myth:(dice8)` `plurk_basecamp:(dice8)` `plurk_summit:(dice8)` | `(dice8)` | karma/0 | *(未描述)* | present | [def92e11](https://s.plurk.com/emoticons/random/def92e11a48e30c83e22.png) |
-| `plurk_myth:(digit)` `plurk_basecamp:(digit)` `plurk_summit:(digit)` | `(digit)` | karma/0 | *(未描述)* | present | [2395f060](https://s.plurk.com/emoticons/random/2395f06061976e760876.png) |
-| `plurk_myth:(draw)` `plurk_basecamp:(draw)` `plurk_summit:(draw)` | `(draw)` | karma/0 | *(未描述)* | present | [19aaf586](https://s.plurk.com/emoticons/random/19aaf586d123ed95a4d9.png) |
-| `plurk_myth:(droid_dance)` `plurk_basecamp:(droid_dance)` `plurk_summit:(droid_dance)` | `(droid_dance)` | karma/0 | *(未描述)* | present | [2e67a6e9](https://s.plurk.com/emoticons/special/2e67a6e905689565a11b.gif) |
-| `plurk_myth:(fireworks)` `plurk_basecamp:(fireworks)` `plurk_summit:(fireworks)` | `(fireworks)` | karma/0 | *(未描述)* | present | [96e7ecdb](https://s.plurk.com/emoticons/xmas/96e7ecdbc1598bf95bb0.gif) |
-| `plurk_myth:(gay)` `plurk_basecamp:(gay)` `plurk_summit:(gay)` | `(gay)` | karma/0 | *(未描述)* | present | [4fcdaaed](https://s.plurk.com/emoticons/pride/4fcdaaed04288096efa1.gif) |
-| `plurk_myth:(ghost)` `plurk_basecamp:(ghost)` `plurk_summit:(ghost)` | `(ghost)` | karma/0 | *(未描述)* | present | [bf6aaf81](https://s.plurk.com/emoticons/halloween/bf6aaf810de43535d515.gif) |
-| `plurk_myth:(goal)` `plurk_basecamp:(goal)` `plurk_summit:(goal)` | `(goal)` | karma/0 | *(未描述)* | present | [e9becdc1](https://s.plurk.com/emoticons/special/e9becdc18f46d40fe78b.png) |
-| `plurk_myth:(gym_okok)` `plurk_basecamp:(gym_okok)` `plurk_summit:(gym_okok)` | `(gym_okok)` | karma/0 | *(未描述)* | present | [31534cee](https://s.plurk.com/emoticons/special/31534cee2344a56a5613.gif) |
-| `plurk_myth:(hungry_okok)` `plurk_basecamp:(hungry_okok)` `plurk_summit:(hungry_okok)` | `(hungry_okok)` | karma/0 | *(未描述)* | present | [c3f0e164](https://s.plurk.com/emoticons/special/c3f0e164508e83dcd9a1.gif) |
-| `plurk_myth:(LOL)` `plurk_basecamp:(LOL)` `plurk_summit:(LOL)` | `(LOL)` | karma/0 | *(未描述)* | present | [839bd0af](https://s.plurk.com/emoticons/silver/839bd0af2cb7d92ba651.gif) |
-| `plurk_myth:(music_okok)` `plurk_basecamp:(music_okok)` `plurk_summit:(music_okok)` | `(music_okok)` | karma/0 | *(未描述)* | present | [0d76d3f9](https://s.plurk.com/emoticons/special/0d76d3f99713026a9cce.gif) |
-| `plurk_myth:(no_dance)` `plurk_basecamp:(no_dance)` `plurk_summit:(no_dance)` | `(no_dance)` | karma/0 | *(未描述)* | present | [8bf82608](https://s.plurk.com/emoticons/special/8bf826089664fe9dd3ae.gif) |
-| `plurk_myth:(ooxx)` `plurk_basecamp:(ooxx)` `plurk_summit:(ooxx)` | `(ooxx)` | karma/0 | *(未描述)* | present | [8cdc3558](https://s.plurk.com/emoticons/basic2/8cdc3558e966508e150c.gif) |
-| `plurk_myth:(p-angry)` `plurk_basecamp:(p-angry)` `plurk_summit:(p-angry)` | `(p-angry)` | karma/0 | *(未描述)* | present | [4050be0c](https://s.plurk.com/emoticons/basic2/4050be0c3c86d606943f.gif) |
-| `plurk_myth:(panties)` `plurk_basecamp:(panties)` `plurk_summit:(panties)` | `(panties)` | karma/0 | *(未描述)* | present | [6a243a33](https://s.plurk.com/emoticons/random/6a243a33d6bc7459e4f9.png) |
-| `plurk_myth:(p-blush)` `plurk_basecamp:(p-blush)` `plurk_summit:(p-blush)` | `(p-blush)` | karma/0 | *(未描述)* | present | [6f1dd445](https://s.plurk.com/emoticons/basic2/6f1dd445dc3e6b0934f3.gif) |
-| `plurk_myth:(p-cool)` `plurk_basecamp:(p-cool)` `plurk_summit:(p-cool)` | `(p-cool)` | karma/0 | *(未描述)* | present | [e0d98dcf](https://s.plurk.com/emoticons/basic2/e0d98dcf357870f37543.gif) |
-| `plurk_myth:(p-cry)` `plurk_basecamp:(p-cry)` `plurk_summit:(p-cry)` | `(p-cry)` | karma/0 | *(未描述)* | present | [c29b3bc4](https://s.plurk.com/emoticons/basic2/c29b3bc4f134ad3418a8.gif) |
-| `plurk_myth:(p-crying)` `plurk_basecamp:(p-crying)` `plurk_summit:(p-crying)` | `(p-crying)` | karma/0 | *(未描述)* | present | [b906941d](https://s.plurk.com/emoticons/basic2/b906941d869a0ee5e996.gif) |
-| `plurk_myth:(p-doh)` `plurk_basecamp:(p-doh)` `plurk_summit:(p-doh)` | `(p-doh)` | karma/0 | *(未描述)* | present | [71186f03](https://s.plurk.com/emoticons/basic2/71186f036bb62e392088.gif) |
-| `plurk_myth:(p-drinking)` `plurk_basecamp:(p-drinking)` `plurk_summit:(p-drinking)` | `(p-drinking)` | karma/0 | *(未描述)* | present | [5b2022b6](https://s.plurk.com/emoticons/basic2/5b2022b62fbe9bededf6.gif) |
-| `plurk_myth:(p-goodluck)` `plurk_basecamp:(p-goodluck)` `plurk_summit:(p-goodluck)` | `(p-goodluck)` | karma/0 | *(未描述)* | present | [2b47fd40](https://s.plurk.com/emoticons/basic2/2b47fd4026f061a9bec4.gif) |
-| `plurk_myth:(p-griltongue)` `plurk_basecamp:(p-griltongue)` `plurk_summit:(p-griltongue)` | `(p-griltongue)` | karma/0 | *(未描述)* | present | [fe629c5a](https://s.plurk.com/emoticons/basic2/fe629c5a9ed0f9240776.gif) |
-| `plurk_myth:(p-hungry)` `plurk_basecamp:(p-hungry)` `plurk_summit:(p-hungry)` | `(p-hungry)` | karma/0 | *(未描述)* | present | [87e48a9d](https://s.plurk.com/emoticons/basic2/87e48a9d3f3115736d60.gif) |
-| `plurk_myth:(p-joyful)` `plurk_basecamp:(p-joyful)` `plurk_summit:(p-joyful)` | `(p-joyful)` | karma/0 | *(未描述)* | present | [38692e95](https://s.plurk.com/emoticons/basic2/38692e95e30abcd59898.gif) |
-| `plurk_myth:(p-laugh)` `plurk_basecamp:(p-laugh)` `plurk_summit:(p-laugh)` | `(p-laugh)` | karma/0 | *(未描述)* | present | [7c86b002](https://s.plurk.com/emoticons/basic2/7c86b00237142683b40b.gif) |
-| `plurk_myth:(p-mmm)` `plurk_basecamp:(p-mmm)` `plurk_summit:(p-mmm)` | `(p-mmm)` | karma/0 | *(未描述)* | present | [2e964296](https://s.plurk.com/emoticons/basic2/2e9642968a3325d724b5.gif) |
-| `plurk_myth:(p-music)` `plurk_basecamp:(p-music)` `plurk_summit:(p-music)` | `(p-music)` | karma/0 | *(未描述)* | present | [2e948ae7](https://s.plurk.com/emoticons/basic2/2e948ae7195e68b97ac5.gif) |
-| `plurk_myth:(p-nerd)` `plurk_basecamp:(p-nerd)` `plurk_summit:(p-nerd)` | `(p-nerd)` | karma/0 | *(未描述)* | present | [b72637e5](https://s.plurk.com/emoticons/basic2/b72637e5aba38e279cb4.gif) |
-| `plurk_myth:(p-rock)` `plurk_basecamp:(p-rock)` `plurk_summit:(p-rock)` | `(p-rock)` | karma/0 | *(未描述)* | present | [f7ba7884](https://s.plurk.com/emoticons/basic2/f7ba78844f036f465f69.gif) |
-| `plurk_myth:(p-sad)` `plurk_basecamp:(p-sad)` `plurk_summit:(p-sad)` | `(p-sad)` | karma/0 | *(未描述)* | present | [d5e7be5e](https://s.plurk.com/emoticons/basic2/d5e7be5e4e2e02feed64.gif) |
-| `plurk_myth:(p-sick)` `plurk_basecamp:(p-sick)` `plurk_summit:(p-sick)` | `(p-sick)` | karma/0 | *(未描述)* | present | [38936926](https://s.plurk.com/emoticons/basic2/389369261e46e7b5bdad.gif) |
-| `plurk_myth:(p-smile)` `plurk_basecamp:(p-smile)` `plurk_summit:(p-smile)` | `(p-smile)` | karma/0 | *(未描述)* | present | [66229358](https://s.plurk.com/emoticons/basic2/6622935828514f94a04f.gif) |
-| `plurk_myth:(p-stare)` `plurk_basecamp:(p-stare)` `plurk_summit:(p-stare)` | `(p-stare)` | karma/0 | *(未描述)* | present | [cdf4d85f](https://s.plurk.com/emoticons/basic2/cdf4d85ffe4059ae63fd.gif) |
-| `plurk_myth:(p-surprised)` `plurk_basecamp:(p-surprised)` `plurk_summit:(p-surprised)` | `(p-surprised)` | karma/0 | *(未描述)* | present | [1b07e99b](https://s.plurk.com/emoticons/basic2/1b07e99b3a2f2453192e.gif) |
-| `plurk_myth:(p-tears)` `plurk_basecamp:(p-tears)` `plurk_summit:(p-tears)` | `(p-tears)` | karma/0 | *(未描述)* | present | [7e69bc46](https://s.plurk.com/emoticons/basic2/7e69bc46313d6bfc9157.gif) |
-| `plurk_myth:(p-tongue)` `plurk_basecamp:(p-tongue)` `plurk_summit:(p-tongue)` | `(p-tongue)` | karma/0 | *(未描述)* | present | [28a8c933](https://s.plurk.com/emoticons/basic2/28a8c933cf014dcd423a.gif) |
-| `plurk_myth:(pumpkin)` `plurk_basecamp:(pumpkin)` `plurk_summit:(pumpkin)` | `(pumpkin)` | karma/0 | *(未描述)* | present | [216d68e0](https://s.plurk.com/emoticons/halloween/216d68e00097e6ef52c0.gif) |
-| `plurk_myth:(p-unsure)` `plurk_basecamp:(p-unsure)` `plurk_summit:(p-unsure)` | `(p-unsure)` | karma/0 | *(未描述)* | present | [916db9f5](https://s.plurk.com/emoticons/basic2/916db9f512a723f3c8ed.gif) |
-| `plurk_myth:(p-wave)` `plurk_basecamp:(p-wave)` `plurk_summit:(p-wave)` | `(p-wave)` | karma/0 | *(未描述)* | present | [80955a97](https://s.plurk.com/emoticons/basic2/80955a97bcde85ba47fd.gif) |
-| `plurk_myth:(p-wink)` `plurk_basecamp:(p-wink)` `plurk_summit:(p-wink)` | `(p-wink)` | karma/0 | *(未描述)* | present | [d52e817f](https://s.plurk.com/emoticons/basic2/d52e817f51980ac5e06f.gif) |
-| `plurk_myth:(p-woot)` `plurk_basecamp:(p-woot)` `plurk_summit:(p-woot)` | `(p-woot)` | karma/0 | *(未描述)* | present | [3d5dd88a](https://s.plurk.com/emoticons/basic2/3d5dd88acb198686283f.gif) |
-| `plurk_myth:(rainbow)` `plurk_basecamp:(rainbow)` `plurk_summit:(rainbow)` | `(rainbow)` | karma/0 | *(未描述)* | present | [f1ce5067](https://s.plurk.com/emoticons/pride/f1ce5067cf97140fa539.gif) |
-| `plurk_myth:(RIP)` `plurk_basecamp:(RIP)` `plurk_summit:(RIP)` | `(RIP)` | karma/0 | *(未描述)* | present | [821e5303](https://s.plurk.com/emoticons/basic2/821e530331b97f1d49f6.gif) |
-| `plurk_myth:(rock-paper-scissors)` `plurk_basecamp:(rock-paper-scissors)` `plurk_summit:(rock-paper-scissors)` | `(rock-paper-scissors)` | karma/0 | *(未描述)* | present | [d4e02922](https://s.plurk.com/emoticons/random/d4e02922f336b3fc37df.gif) |
-| `plurk_myth:(slot)` `plurk_basecamp:(slot)` `plurk_summit:(slot)` | `(slot)` | karma/0 | *(未描述)* | present | [d266f2b1](https://s.plurk.com/emoticons/random/d266f2b19c50547d685a.png) |
-| `plurk_myth:(taser_okok)` `plurk_basecamp:(taser_okok)` `plurk_summit:(taser_okok)` | `(taser_okok)` | karma/0 | *(未描述)* | present | [2bee3006](https://s.plurk.com/emoticons/special/2bee3006341b74570ec6.gif) |
-| `plurk_myth:(wave_okok)` `plurk_basecamp:(wave_okok)` `plurk_summit:(wave_okok)` | `(wave_okok)` | karma/0 | *(未描述)* | present | [d6691783](https://s.plurk.com/emoticons/special/d6691783f11a09a06c4e.gif) |
-| `plurk_myth:(woot)` `plurk_basecamp:(woot)` `plurk_summit:(woot)` | `(woot)` | karma/0 | *(未描述)* | present | [a2222b2e](https://s.plurk.com/emoticons/basic/a2222b2e2383bb7b7a8d.gif) |
-| `plurk_myth:(yarr)` `plurk_basecamp:(yarr)` `plurk_summit:(yarr)` | `(yarr)` | karma/0 | *(未描述)* | present | [cf62d5fa](https://s.plurk.com/emoticons/special/cf62d5fa0d3a77434176.gif) |
-| `plurk_myth:(yarr_okok)` `plurk_basecamp:(yarr_okok)` `plurk_summit:(yarr_okok)` | `(yarr_okok)` | karma/0 | *(未描述)* | present | [8de76292](https://s.plurk.com/emoticons/special/8de76292cd29c62fb04d.gif) |
-| `plurk_myth:(Русский)` `plurk_basecamp:(Русский)` `plurk_summit:(Русский)` | `(Русский)` | karma/0 | *(未描述)* | present | [a5cf5b06](https://s.plurk.com/emoticons/special/a5cf5b068a84ec43bafb.gif) |
-| `plurk_myth::-&` `plurk_basecamp::-&` `plurk_summit::-&` | `:-&` | karma/0 | *(未描述)* | present | [9b6dccfc](https://s.plurk.com/emoticons/basic/9b6dccfc66d158b4a9ab.gif) |
-| `plurk_myth::'-(` `plurk_basecamp::'-(` `plurk_summit::'-(` | `:'-(` | karma/0 | *(未描述)* | present | [6babe674](https://s.plurk.com/emoticons/basic/6babe674ab2acfec70a0.gif) |
-| `plurk_myth::-(` `plurk_basecamp::-(` `plurk_summit::-(` | `:-(` | karma/0 | *(未描述)* | present | [909c919b](https://s.plurk.com/emoticons/basic/909c919bf67c90aee8d3.gif) |
-| `plurk_myth::-)` `plurk_basecamp::-)` `plurk_summit::-)` | `:-)` | karma/0 | *(未描述)* | present | [1db1dfda](https://s.plurk.com/emoticons/basic/1db1dfdae0aa84a335a6.gif) |
-| `plurk_myth::-))` `plurk_basecamp::-))` `plurk_summit::-))` | `:-))` | karma/0 | *(未描述)* | present | [9a3f0db1](https://s.plurk.com/emoticons/basic/9a3f0db1c41e5970355e.gif) |
-| `plurk_myth::-D` `plurk_basecamp::-D` `plurk_summit::-D` | `:-D` | karma/0 | *(未描述)* | present | [711f8abd](https://s.plurk.com/emoticons/basic/711f8abdfa514f3b65a2.gif) |
-| `plurk_myth::-o` `plurk_basecamp::-o` `plurk_summit::-o` | `:-o` | karma/0 | *(未描述)* | present | [767ec3ea](https://s.plurk.com/emoticons/basic/767ec3ea798852ce9271.gif) |
-| `plurk_myth::-P` `plurk_basecamp::-P` `plurk_summit::-P` | `:-P` | karma/0 | *(未描述)* | present | [5a1e7d20](https://s.plurk.com/emoticons/basic/5a1e7d20eb1cfc56f825.gif) |
-| `plurk_myth:;-)` `plurk_basecamp:;-)` `plurk_summit:;-)` | `;-)` | karma/0 | *(未描述)* | present | [ea380460](https://s.plurk.com/emoticons/basic/ea3804608bbbceef4d6e.gif) |
-| `plurk_myth:X-(` `plurk_basecamp:X-(` `plurk_summit:X-(` | `X-(` | karma/0 | *(未描述)* | present | [efcced69](https://s.plurk.com/emoticons/basic/efcced692eddb42ad6c1.gif) |
-| `plurk_myth:(banana_ninja)` `plurk_basecamp:(banana_ninja)` `plurk_summit:(banana_ninja)` | `(banana_ninja)` | karma/100 | *(未描述)* | present | [913635d4](https://s.plurk.com/emoticons/karma100/913635d4d89a7741fbd8.gif) |
-| `plurk_myth:(beer)` `plurk_basecamp:(beer)` `plurk_summit:(beer)` | `(beer)` | karma/100 | *(未描述)* | present | [e4cd43c4](https://s.plurk.com/emoticons/karma100/e4cd43c44d9ef032f5c0.gif) |
-| `plurk_myth:(coffee)` `plurk_basecamp:(coffee)` `plurk_summit:(coffee)` | `(coffee)` | karma/100 | *(未描述)* | present | [897d4d58](https://s.plurk.com/emoticons/karma100/897d4d58e94bebe389b7.gif) |
-| `plurk_myth:(fish_hit)` `plurk_basecamp:(fish_hit)` `plurk_summit:(fish_hit)` | `(fish_hit)` | karma/100 | *(未描述)* | present | [67fc790b](https://s.plurk.com/emoticons/karma100/67fc790b716cc90c4c2b.gif) |
-| `plurk_myth:(morning)` `plurk_basecamp:(morning)` `plurk_summit:(morning)` | `(morning)` | karma/100 | *(未描述)* | present | [f5da12f0](https://s.plurk.com/emoticons/karma100/f5da12f021dcc0f6fcec.gif) |
-| `plurk_myth:(muhaha)` `plurk_basecamp:(muhaha)` `plurk_summit:(muhaha)` | `(muhaha)` | karma/100 | *(未描述)* | present | [4ef1d175](https://s.plurk.com/emoticons/karma100/4ef1d175113564399e6f.gif) |
-| `plurk_myth:(muscle)` `plurk_basecamp:(muscle)` `plurk_summit:(muscle)` | `(muscle)` | karma/100 | *(未描述)* | present | [3b927610](https://s.plurk.com/emoticons/karma100/3b9276108a2eb34c0dbb.gif) |
-| `plurk_myth:(smileydance)` `plurk_basecamp:(smileydance)` `plurk_summit:(smileydance)` | `(smileydance)` | karma/100 | *(未描述)* | present | [cf8a224d](https://s.plurk.com/emoticons/karma100/cf8a224dd4c66563dcf8.gif) |
-| `plurk_myth:(taser)` `plurk_basecamp:(taser)` `plurk_summit:(taser)` | `(taser)` | karma/100 | *(未描述)* | present | [92e08a44](https://s.plurk.com/emoticons/karma100/92e08a44086a120d1b55.gif) |
-| `plurk_myth:(angry)` `plurk_basecamp:(angry)` `plurk_summit:(angry)` | `(angry)` | karma/25 | *(未描述)* | present | [638945ed](https://s.plurk.com/emoticons/silver/638945ed5ef6ca74dfd3.gif) |
-| `plurk_myth:(annoyed)` `plurk_basecamp:(annoyed)` `plurk_summit:(annoyed)` | `(annoyed)` | karma/25 | *(未描述)* | present | [33ded221](https://s.plurk.com/emoticons/silver/33ded221bc52845cd3c5.gif) |
-| `plurk_myth:(blush)` `plurk_basecamp:(blush)` `plurk_summit:(blush)` | `(blush)` | karma/25 | *(未描述)* | present | [8924117d](https://s.plurk.com/emoticons/silver/8924117d7b11b5cec86e.gif) |
-| `plurk_myth:(cozy)` `plurk_basecamp:(cozy)` `plurk_summit:(cozy)` | `(cozy)` | karma/25 | *(未描述)* | present | [dc6d5d24](https://s.plurk.com/emoticons/silver/dc6d5d24d6eb0bd4c074.gif) |
-| `plurk_myth:(dance)` `plurk_basecamp:(dance)` `plurk_summit:(dance)` | `(dance)` | karma/25 | *(未描述)* | present | [1e940333](https://s.plurk.com/emoticons/silver/1e940333bb38fc3c8c3c.gif) |
-| `plurk_myth:(goodluck)` `plurk_basecamp:(goodluck)` `plurk_summit:(goodluck)` | `(goodluck)` | karma/25 | *(未描述)* | present | [5873d5d2](https://s.plurk.com/emoticons/silver/5873d5d21efbbd843fce.gif) |
-| `plurk_myth:(griltongue)` `plurk_basecamp:(griltongue)` `plurk_summit:(griltongue)` | `(griltongue)` | karma/25 | *(未描述)* | present | [6588bf08](https://s.plurk.com/emoticons/silver/6588bf08df341d71bc90.png) |
-| `plurk_myth:(highfive)` `plurk_basecamp:(highfive)` `plurk_summit:(highfive)` | `(highfive)` | karma/25 | *(未描述)* | present | [74720893](https://s.plurk.com/emoticons/silver/74720893ed4837dcf07f.gif) |
-| `plurk_myth:(hungry)` `plurk_basecamp:(hungry)` `plurk_summit:(hungry)` | `(hungry)` | karma/25 | *(未描述)* | present | [e6ec1749](https://s.plurk.com/emoticons/silver/e6ec17499e33956a1dff.gif) |
-| `plurk_myth:(K)` `plurk_basecamp:(K)` `plurk_summit:(K)` | `(K)` | karma/25 | *(未描述)* | present | [5d46d925](https://s.plurk.com/emoticons/silver/5d46d9251d5eec2a2214.gif) |
-| `plurk_myth:(mmm)` `plurk_basecamp:(mmm)` `plurk_summit:(mmm)` | `(mmm)` | karma/25 | *(未描述)* | present | [f21b0111](https://s.plurk.com/emoticons/silver/f21b0111490d416e0f06.gif) |
-| `plurk_myth:(music)` `plurk_basecamp:(music)` `plurk_summit:(music)` | `(music)` | karma/25 | *(未描述)* | present | [775713cc](https://s.plurk.com/emoticons/silver/775713cc17fbc7c3df26.gif) |
-| `plurk_myth:(sick)` `plurk_basecamp:(sick)` `plurk_summit:(sick)` | `(sick)` | karma/25 | *(未描述)* | present | [c7c80605](https://s.plurk.com/emoticons/silver/c7c806055d52998022f5.gif) |
-| `plurk_myth:(tears)` `plurk_basecamp:(tears)` `plurk_summit:(tears)` | `(tears)` | karma/25 | *(未描述)* | present | [6b910901](https://s.plurk.com/emoticons/silver/6b910901f860c63d0784.gif) |
-| `plurk_myth:(tired)` `plurk_basecamp:(tired)` `plurk_summit:(tired)` | `(tired)` | karma/25 | *(未描述)* | present | [3aced380](https://s.plurk.com/emoticons/silver/3aced380ef8646d5b9a8.gif) |
-| `plurk_myth:(tongue)` `plurk_basecamp:(tongue)` `plurk_summit:(tongue)` | `(tongue)` | karma/25 | *(未描述)* | present | [d30843cc](https://s.plurk.com/emoticons/silver/d30843cc05e277db256b.gif) |
-| `plurk_myth:(unsure)` `plurk_basecamp:(unsure)` `plurk_summit:(unsure)` | `(unsure)` | karma/25 | *(未描述)* | present | [86e24900](https://s.plurk.com/emoticons/silver/86e24900e41e286acfa6.gif) |
-| `plurk_myth:(wave)` `plurk_basecamp:(wave)` `plurk_summit:(wave)` | `(wave)` | karma/25 | *(未描述)* | present | [ff597919](https://s.plurk.com/emoticons/silver/ff597919404d87e6ded3.gif) |
-| `plurk_myth:B-)` `plurk_basecamp:B-)` `plurk_summit:B-)` | `B-)` | karma/25 | *(未描述)* | present | [91502e04](https://s.plurk.com/emoticons/silver/91502e04d8192a328b48.gif) |
-| `plurk_myth:(applause)` `plurk_basecamp:(applause)` `plurk_summit:(applause)` | `(applause)` | karma/50 | *(未描述)* | present | [06dd3563](https://s.plurk.com/emoticons/gold/06dd3563ec316765a5d5.gif) |
-| `plurk_myth:(bringit)` `plurk_basecamp:(bringit)` `plurk_summit:(bringit)` | `(bringit)` | karma/50 | *(未描述)* | present | [852112e9](https://s.plurk.com/emoticons/gold/852112e96b166ff0fc12.gif) |
-| `plurk_myth:(brokenheart)` `plurk_basecamp:(brokenheart)` `plurk_summit:(brokenheart)` | `(brokenheart)` | karma/50 | *(未描述)* | present | [20c6bcad](https://s.plurk.com/emoticons/gold/20c6bcad93c959c16774.gif) |
-| `plurk_myth:(devil)` `plurk_basecamp:(devil)` `plurk_summit:(devil)` | `(devil)` | karma/50 | *(未描述)* | present | [67761692](https://s.plurk.com/emoticons/gold/6776169299b3bc510291.gif) |
-| `plurk_myth:(doh)` `plurk_basecamp:(doh)` `plurk_summit:(doh)` | `(doh)` | karma/50 | *(未描述)* | present | [a97a246d](https://s.plurk.com/emoticons/gold/a97a246dd46e1cb04e09.gif) |
-| `plurk_myth:(drinking)` `plurk_basecamp:(drinking)` `plurk_summit:(drinking)` | `(drinking)` | karma/50 | *(未描述)* | present | [e6b1b8a9](https://s.plurk.com/emoticons/gold/e6b1b8a96297abf07afc.gif) |
-| `plurk_myth:(flower)` `plurk_basecamp:(flower)` `plurk_summit:(flower)` | `(flower)` | karma/50 | *(未描述)* | present | [29cbd2ad](https://s.plurk.com/emoticons/gold/29cbd2ad211819d3e11d.png) |
-| `plurk_myth:(girlkiss)` `plurk_basecamp:(girlkiss)` `plurk_summit:(girlkiss)` | `(girlkiss)` | karma/50 | *(未描述)* | present | [8f60265b](https://s.plurk.com/emoticons/gold/8f60265b424f8e7a28ff.gif) |
-| `plurk_myth:(gym)` `plurk_basecamp:(gym)` `plurk_summit:(gym)` | `(gym)` | karma/50 | *(未描述)* | present | [90b19dd0](https://s.plurk.com/emoticons/gold/90b19dd097dc17ba5ed3.gif) |
-| `plurk_myth:(heart)` `plurk_basecamp:(heart)` `plurk_summit:(heart)` | `(heart)` | karma/50 | *(未描述)* | present | [02d9fa3c](https://s.plurk.com/emoticons/gold/02d9fa3c7dd9c827d482.gif) |
-| `plurk_myth:(lmao)` `plurk_basecamp:(lmao)` `plurk_summit:(lmao)` | `(lmao)` | karma/50 | *(未描述)* | present | [818eab06](https://s.plurk.com/emoticons/gold/818eab061a7a88347d4a.gif) |
-| `plurk_myth:(money)` `plurk_basecamp:(money)` `plurk_summit:(money)` | `(money)` | karma/50 | *(未描述)* | present | [4e9cf271](https://s.plurk.com/emoticons/gold/4e9cf2717dd6b2724250.gif) |
-| `plurk_myth:(nottalking)` `plurk_basecamp:(nottalking)` `plurk_summit:(nottalking)` | `(nottalking)` | karma/50 | *(未描述)* | present | [8ceaac66](https://s.plurk.com/emoticons/gold/8ceaac66ecb05e54ff52.gif) |
-| `plurk_myth:(party)` `plurk_basecamp:(party)` `plurk_summit:(party)` | `(party)` | karma/50 | *(未描述)* | present | [a374f9f8](https://s.plurk.com/emoticons/gold/a374f9f870ad75459f7c.gif) |
-| `plurk_myth:(rock)` `plurk_basecamp:(rock)` `plurk_summit:(rock)` | `(rock)` | karma/50 | *(未描述)* | present | [1d19eabe](https://s.plurk.com/emoticons/gold/1d19eabecaeda142b6ec.gif) |
-| `plurk_myth:(rofl)` `plurk_basecamp:(rofl)` `plurk_summit:(rofl)` | `(rofl)` | karma/50 | *(未描述)* | present | [2d641417](https://s.plurk.com/emoticons/gold/2d641417d57ea3783e1d.gif) |
-| `plurk_myth:(sleeping)` `plurk_basecamp:(sleeping)` `plurk_summit:(sleeping)` | `(sleeping)` | karma/50 | *(未描述)* | present | [a7f7fc70](https://s.plurk.com/emoticons/gold/a7f7fc702a12b681077c.gif) |
-| `plurk_myth:(thinking)` `plurk_basecamp:(thinking)` `plurk_summit:(thinking)` | `(thinking)` | karma/50 | *(未描述)* | present | [fdd09f58](https://s.plurk.com/emoticons/gold/fdd09f58241ffb312891.gif) |
-| `plurk_myth:(worship)` `plurk_basecamp:(worship)` `plurk_summit:(worship)` | `(worship)` | karma/50 | *(未描述)* | present | [7b6731cf](https://s.plurk.com/emoticons/gold/7b6731cf556df2eb2e2a.gif) |
-| `plurk_myth:8-)` `plurk_basecamp:8-)` `plurk_summit:8-)` | `8-)` | karma/50 | *(未描述)* | present | [ecc2c02e](https://s.plurk.com/emoticons/gold/ecc2c02e6fa7501cfa51.gif) |
-| `plurk_myth:(banana_cool)` `plurk_basecamp:(banana_cool)` `plurk_summit:(banana_cool)` | `(banana_cool)` | karma/81 | *(未描述)* | present | [fdbea511](https://s.plurk.com/emoticons/platinum2/fdbea5118d58463a8b15.gif) |
-| `plurk_myth:(banana_rock)` `plurk_basecamp:(banana_rock)` `plurk_summit:(banana_rock)` | `(banana_rock)` | karma/81 | *(未描述)* | present | [31df851a](https://s.plurk.com/emoticons/platinum2/31df851ab618f613a20d.gif) |
-| `plurk_myth:(evil_grin)` `plurk_basecamp:(evil_grin)` `plurk_summit:(evil_grin)` | `(evil_grin)` | karma/81 | *(未描述)* | present | [e759ec77](https://s.plurk.com/emoticons/platinum2/e759ec7795ef23e41d6b.gif) |
-| `plurk_myth:(evilsmirk)` `plurk_basecamp:(evilsmirk)` `plurk_summit:(evilsmirk)` | `(evilsmirk)` | karma/81 | *(未描述)* | present | [b12b5e84](https://s.plurk.com/emoticons/platinum2/b12b5e8446fb2cf5a328.gif) |
-| `plurk_myth:(eyeroll)` `plurk_basecamp:(eyeroll)` `plurk_summit:(eyeroll)` | `(eyeroll)` | karma/81 | *(未描述)* | present | [625b57ae](https://s.plurk.com/emoticons/platinum2/625b57aed3cd92d5e24d.gif) |
-| `plurk_myth:(haha)` `plurk_basecamp:(haha)` `plurk_summit:(haha)` | `(haha)` | karma/81 | *(未描述)* | present | [2b3e4180](https://s.plurk.com/emoticons/platinum2/2b3e41800095597e8537.gif) |
-| `plurk_myth:(headspin)` `plurk_basecamp:(headspin)` `plurk_summit:(headspin)` | `(headspin)` | karma/81 | *(未描述)* | present | [fe2fd255](https://s.plurk.com/emoticons/platinum2/fe2fd25530b4f27dd61a.gif) |
-| `plurk_myth:(heart_beat)` `plurk_basecamp:(heart_beat)` `plurk_summit:(heart_beat)` | `(heart_beat)` | karma/81 | *(未描述)* | present | [353b4136](https://s.plurk.com/emoticons/platinum2/353b4136dc309acf854c.gif) |
-| `plurk_myth:(ninja)` `plurk_basecamp:(ninja)` `plurk_summit:(ninja)` | `(ninja)` | karma/81 | *(未描述)* | present | [75499428](https://s.plurk.com/emoticons/platinum2/75499428b46c8d6f4e5d.gif) |
-| `plurk_myth:(bigeyes)` `plurk_basecamp:(bigeyes)` `plurk_summit:(bigeyes)` | `(bigeyes)` | recruited/10 | *(未描述)* | present | [7eb08028](https://s.plurk.com/emoticons/platinum/7eb08028816df6e992e6.gif) |
-| `plurk_myth:(cry)` `plurk_basecamp:(cry)` `plurk_summit:(cry)` | `(cry)` | recruited/10 | *(未描述)* | present | [a0f5644a](https://s.plurk.com/emoticons/platinum/a0f5644ae81e9ad32805.gif) |
-| `plurk_myth:(funkydance)` `plurk_basecamp:(funkydance)` `plurk_summit:(funkydance)` | `(funkydance)` | recruited/10 | *(未描述)* | present | [4dac8181](https://s.plurk.com/emoticons/platinum/4dac81814b658885396e.gif) |
-| `plurk_myth:(hassle)` `plurk_basecamp:(hassle)` `plurk_summit:(hassle)` | `(hassle)` | recruited/10 | *(未描述)* | present | [0e4e67f9](https://s.plurk.com/emoticons/platinum/0e4e67f9ffb4ec83f78d.gif) |
-| `plurk_myth:(idiot)` `plurk_basecamp:(idiot)` `plurk_summit:(idiot)` | `(idiot)` | recruited/10 | *(未描述)* | present | [e377eeac](https://s.plurk.com/emoticons/platinum/e377eeaca7bb2bbe04ed.gif) |
-| `plurk_myth:(lonely)` `plurk_basecamp:(lonely)` `plurk_summit:(lonely)` | `(lonely)` | recruited/10 | *(未描述)* | present | [cbf8f513](https://s.plurk.com/emoticons/platinum/cbf8f513618a261dc9da.gif) |
-| `plurk_myth:(okok)` `plurk_basecamp:(okok)` `plurk_summit:(okok)` | `(okok)` | recruited/10 | *(未描述)* | present | [20bfe281](https://s.plurk.com/emoticons/platinum/20bfe28106d999707709.gif) |
-| `plurk_myth:(panic)` `plurk_basecamp:(panic)` `plurk_summit:(panic)` | `(panic)` | recruited/10 | *(未描述)* | present | [8b80a0d5](https://s.plurk.com/emoticons/platinum/8b80a0d5b50df0169b19.gif) |
-| `plurk_myth:(scenic)` `plurk_basecamp:(scenic)` `plurk_summit:(scenic)` | `(scenic)` | recruited/10 | *(未描述)* | present | [8d4c9b57](https://s.plurk.com/emoticons/platinum/8d4c9b570396c85d9b29.gif) |
-| `plurk_myth:(yahoo)` `plurk_basecamp:(yahoo)` `plurk_summit:(yahoo)` | `(yahoo)` | recruited/10 | *(未描述)* | present | [605d05d7](https://s.plurk.com/emoticons/platinum/605d05d7b221b1594e2e.gif) |
+| `plurk_shared:emo9` | `emo9` | custom | *(未描述)* | missing | [1b46b948](https://emos.plurk.com/1b46b948548d5a895ef4880d46cd4494_w20_h20.gif) |
+| `plurk_myth:(angry_okok)` `plurk_shared:(angry_okok)` `plurk_basecamp:(angry_okok)` `plurk_summit:(angry_okok)` | `(angry_okok)` | karma/0 | *(未描述)* | present | [c0bd0476](https://s.plurk.com/emoticons/special/c0bd047666c48601098a.gif) |
+| `plurk_myth:(banana_gym)` `plurk_shared:(banana_gym)` `plurk_basecamp:(banana_gym)` `plurk_summit:(banana_gym)` | `(banana_gym)` | karma/0 | *(未描述)* | present | [5760a257](https://s.plurk.com/emoticons/special/5760a25796d97c687cc5.gif) |
+| `plurk_myth:(bat)` `plurk_shared:(bat)` `plurk_basecamp:(bat)` `plurk_summit:(bat)` | `(bat)` | karma/0 | *(未描述)* | present | [1e9dc552](https://s.plurk.com/emoticons/halloween/1e9dc552129418d0cf0e.gif) |
+| `plurk_myth:(bobei)` `plurk_shared:(bobei)` `plurk_basecamp:(bobei)` `plurk_summit:(bobei)` | `(bobei)` | karma/0 | *(未描述)* | present | [b6ef58ae](https://s.plurk.com/emoticons/random/b6ef58ae5a0aa2b9b695.png) |
+| `plurk_myth:(bzz)` `plurk_shared:(bzz)` `plurk_basecamp:(bzz)` `plurk_summit:(bzz)` | `(bzz)` | karma/0 | *(未描述)* | present | [19acfc99](https://s.plurk.com/emoticons/special/19acfc995b239be115f8.png) |
+| `plurk_myth:(candle)` `plurk_shared:(candle)` `plurk_basecamp:(candle)` `plurk_summit:(candle)` | `(candle)` | karma/0 | *(未描述)* | present | [57db6fb8](https://s.plurk.com/emoticons/basic2/57db6fb886218eddaf95.gif) |
+| `plurk_myth:(code)` `plurk_shared:(code)` `plurk_basecamp:(code)` `plurk_summit:(code)` | `(code)` | karma/0 | *(未描述)* | present | [c0099472](https://s.plurk.com/emoticons/special/c0099472cb1d8e15e2f7.gif) |
+| `plurk_myth:(code_okok)` `plurk_shared:(code_okok)` `plurk_basecamp:(code_okok)` `plurk_summit:(code_okok)` | `(code_okok)` | karma/0 | *(未描述)* | present | [31e9b6f5](https://s.plurk.com/emoticons/special/31e9b6f5566276a0ff14.gif) |
+| `plurk_myth:(coin)` `plurk_shared:(coin)` `plurk_basecamp:(coin)` `plurk_summit:(coin)` | `(coin)` | karma/0 | *(未描述)* | present | [d507b324](https://s.plurk.com/emoticons/random/d507b324a36b6ea37d41.png) |
+| `plurk_myth:(dance_bzz)` `plurk_shared:(dance_bzz)` `plurk_basecamp:(dance_bzz)` `plurk_summit:(dance_bzz)` | `(dance_bzz)` | karma/0 | *(未描述)* | present | [27f00d42](https://s.plurk.com/emoticons/special/27f00d422d65b6f6774d.gif) |
+| `plurk_myth:(dance_okok)` `plurk_shared:(dance_okok)` `plurk_basecamp:(dance_okok)` `plurk_summit:(dance_okok)` | `(dance_okok)` | karma/0 | *(未描述)* | present | [c063f542](https://s.plurk.com/emoticons/special/c063f5420926ce3b2c48.gif) |
+| `plurk_myth:(dance_yarr)` `plurk_shared:(dance_yarr)` `plurk_basecamp:(dance_yarr)` `plurk_summit:(dance_yarr)` | `(dance_yarr)` | karma/0 | *(未描述)* | present | [834316da](https://s.plurk.com/emoticons/special/834316da23d8b1686ca8.gif) |
+| `plurk_myth:(dice)` `plurk_shared:(dice)` `plurk_basecamp:(dice)` `plurk_summit:(dice)` | `(dice)` | karma/0 | *(未描述)* | present | [72d18a49](https://s.plurk.com/emoticons/random/72d18a49f6c6619c7c9e.png) |
+| `plurk_myth:(dice10)` `plurk_shared:(dice10)` `plurk_basecamp:(dice10)` `plurk_summit:(dice10)` | `(dice10)` | karma/0 | *(未描述)* | present | [b7211fe3](https://s.plurk.com/emoticons/random/b7211fe31f31a313972b.png) |
+| `plurk_myth:(dice12)` `plurk_shared:(dice12)` `plurk_basecamp:(dice12)` `plurk_summit:(dice12)` | `(dice12)` | karma/0 | *(未描述)* | present | [14a82a94](https://s.plurk.com/emoticons/random/14a82a94262e04e87a0f.png) |
+| `plurk_myth:(dice2)` `plurk_shared:(dice2)` `plurk_basecamp:(dice2)` `plurk_summit:(dice2)` | `(dice2)` | karma/0 | *(未描述)* | present | [af9f5a32](https://s.plurk.com/emoticons/random/af9f5a32a5330e19e713.png) |
+| `plurk_myth:(dice20)` `plurk_shared:(dice20)` `plurk_basecamp:(dice20)` `plurk_summit:(dice20)` | `(dice20)` | karma/0 | *(未描述)* | present | [e50a1234](https://s.plurk.com/emoticons/random/e50a1234389ce7d0fa2d.png) |
+| `plurk_myth:(dice4)` `plurk_shared:(dice4)` `plurk_basecamp:(dice4)` `plurk_summit:(dice4)` | `(dice4)` | karma/0 | *(未描述)* | present | [dc596798](https://s.plurk.com/emoticons/random/dc596798287f11c05809.png) |
+| `plurk_myth:(dice8)` `plurk_shared:(dice8)` `plurk_basecamp:(dice8)` `plurk_summit:(dice8)` | `(dice8)` | karma/0 | *(未描述)* | present | [def92e11](https://s.plurk.com/emoticons/random/def92e11a48e30c83e22.png) |
+| `plurk_myth:(digit)` `plurk_shared:(digit)` `plurk_basecamp:(digit)` `plurk_summit:(digit)` | `(digit)` | karma/0 | *(未描述)* | present | [2395f060](https://s.plurk.com/emoticons/random/2395f06061976e760876.png) |
+| `plurk_myth:(draw)` `plurk_shared:(draw)` `plurk_basecamp:(draw)` `plurk_summit:(draw)` | `(draw)` | karma/0 | *(未描述)* | present | [19aaf586](https://s.plurk.com/emoticons/random/19aaf586d123ed95a4d9.png) |
+| `plurk_myth:(droid_dance)` `plurk_shared:(droid_dance)` `plurk_basecamp:(droid_dance)` `plurk_summit:(droid_dance)` | `(droid_dance)` | karma/0 | *(未描述)* | present | [2e67a6e9](https://s.plurk.com/emoticons/special/2e67a6e905689565a11b.gif) |
+| `plurk_myth:(fireworks)` `plurk_shared:(fireworks)` `plurk_basecamp:(fireworks)` `plurk_summit:(fireworks)` | `(fireworks)` | karma/0 | *(未描述)* | present | [96e7ecdb](https://s.plurk.com/emoticons/xmas/96e7ecdbc1598bf95bb0.gif) |
+| `plurk_myth:(gay)` `plurk_shared:(gay)` `plurk_basecamp:(gay)` `plurk_summit:(gay)` | `(gay)` | karma/0 | *(未描述)* | present | [4fcdaaed](https://s.plurk.com/emoticons/pride/4fcdaaed04288096efa1.gif) |
+| `plurk_myth:(ghost)` `plurk_shared:(ghost)` `plurk_basecamp:(ghost)` `plurk_summit:(ghost)` | `(ghost)` | karma/0 | *(未描述)* | present | [bf6aaf81](https://s.plurk.com/emoticons/halloween/bf6aaf810de43535d515.gif) |
+| `plurk_myth:(goal)` `plurk_shared:(goal)` `plurk_basecamp:(goal)` `plurk_summit:(goal)` | `(goal)` | karma/0 | *(未描述)* | present | [e9becdc1](https://s.plurk.com/emoticons/special/e9becdc18f46d40fe78b.png) |
+| `plurk_myth:(gym_okok)` `plurk_shared:(gym_okok)` `plurk_basecamp:(gym_okok)` `plurk_summit:(gym_okok)` | `(gym_okok)` | karma/0 | *(未描述)* | present | [31534cee](https://s.plurk.com/emoticons/special/31534cee2344a56a5613.gif) |
+| `plurk_myth:(hungry_okok)` `plurk_shared:(hungry_okok)` `plurk_basecamp:(hungry_okok)` `plurk_summit:(hungry_okok)` | `(hungry_okok)` | karma/0 | *(未描述)* | present | [c3f0e164](https://s.plurk.com/emoticons/special/c3f0e164508e83dcd9a1.gif) |
+| `plurk_myth:(LOL)` `plurk_shared:(LOL)` `plurk_basecamp:(LOL)` `plurk_summit:(LOL)` | `(LOL)` | karma/0 | *(未描述)* | present | [839bd0af](https://s.plurk.com/emoticons/silver/839bd0af2cb7d92ba651.gif) |
+| `plurk_myth:(music_okok)` `plurk_shared:(music_okok)` `plurk_basecamp:(music_okok)` `plurk_summit:(music_okok)` | `(music_okok)` | karma/0 | *(未描述)* | present | [0d76d3f9](https://s.plurk.com/emoticons/special/0d76d3f99713026a9cce.gif) |
+| `plurk_myth:(no_dance)` `plurk_shared:(no_dance)` `plurk_basecamp:(no_dance)` `plurk_summit:(no_dance)` | `(no_dance)` | karma/0 | *(未描述)* | present | [8bf82608](https://s.plurk.com/emoticons/special/8bf826089664fe9dd3ae.gif) |
+| `plurk_myth:(ooxx)` `plurk_shared:(ooxx)` `plurk_basecamp:(ooxx)` `plurk_summit:(ooxx)` | `(ooxx)` | karma/0 | *(未描述)* | present | [8cdc3558](https://s.plurk.com/emoticons/basic2/8cdc3558e966508e150c.gif) |
+| `plurk_myth:(p-angry)` `plurk_shared:(p-angry)` `plurk_basecamp:(p-angry)` `plurk_summit:(p-angry)` | `(p-angry)` | karma/0 | *(未描述)* | present | [4050be0c](https://s.plurk.com/emoticons/basic2/4050be0c3c86d606943f.gif) |
+| `plurk_myth:(panties)` `plurk_shared:(panties)` `plurk_basecamp:(panties)` `plurk_summit:(panties)` | `(panties)` | karma/0 | *(未描述)* | present | [6a243a33](https://s.plurk.com/emoticons/random/6a243a33d6bc7459e4f9.png) |
+| `plurk_myth:(p-blush)` `plurk_shared:(p-blush)` `plurk_basecamp:(p-blush)` `plurk_summit:(p-blush)` | `(p-blush)` | karma/0 | *(未描述)* | present | [6f1dd445](https://s.plurk.com/emoticons/basic2/6f1dd445dc3e6b0934f3.gif) |
+| `plurk_myth:(p-cool)` `plurk_shared:(p-cool)` `plurk_basecamp:(p-cool)` `plurk_summit:(p-cool)` | `(p-cool)` | karma/0 | *(未描述)* | present | [e0d98dcf](https://s.plurk.com/emoticons/basic2/e0d98dcf357870f37543.gif) |
+| `plurk_myth:(p-cry)` `plurk_shared:(p-cry)` `plurk_basecamp:(p-cry)` `plurk_summit:(p-cry)` | `(p-cry)` | karma/0 | *(未描述)* | present | [c29b3bc4](https://s.plurk.com/emoticons/basic2/c29b3bc4f134ad3418a8.gif) |
+| `plurk_myth:(p-crying)` `plurk_shared:(p-crying)` `plurk_basecamp:(p-crying)` `plurk_summit:(p-crying)` | `(p-crying)` | karma/0 | *(未描述)* | present | [b906941d](https://s.plurk.com/emoticons/basic2/b906941d869a0ee5e996.gif) |
+| `plurk_myth:(p-doh)` `plurk_shared:(p-doh)` `plurk_basecamp:(p-doh)` `plurk_summit:(p-doh)` | `(p-doh)` | karma/0 | *(未描述)* | present | [71186f03](https://s.plurk.com/emoticons/basic2/71186f036bb62e392088.gif) |
+| `plurk_myth:(p-drinking)` `plurk_shared:(p-drinking)` `plurk_basecamp:(p-drinking)` `plurk_summit:(p-drinking)` | `(p-drinking)` | karma/0 | *(未描述)* | present | [5b2022b6](https://s.plurk.com/emoticons/basic2/5b2022b62fbe9bededf6.gif) |
+| `plurk_myth:(p-goodluck)` `plurk_shared:(p-goodluck)` `plurk_basecamp:(p-goodluck)` `plurk_summit:(p-goodluck)` | `(p-goodluck)` | karma/0 | *(未描述)* | present | [2b47fd40](https://s.plurk.com/emoticons/basic2/2b47fd4026f061a9bec4.gif) |
+| `plurk_myth:(p-griltongue)` `plurk_shared:(p-griltongue)` `plurk_basecamp:(p-griltongue)` `plurk_summit:(p-griltongue)` | `(p-griltongue)` | karma/0 | *(未描述)* | present | [fe629c5a](https://s.plurk.com/emoticons/basic2/fe629c5a9ed0f9240776.gif) |
+| `plurk_myth:(p-hungry)` `plurk_shared:(p-hungry)` `plurk_basecamp:(p-hungry)` `plurk_summit:(p-hungry)` | `(p-hungry)` | karma/0 | *(未描述)* | present | [87e48a9d](https://s.plurk.com/emoticons/basic2/87e48a9d3f3115736d60.gif) |
+| `plurk_myth:(p-joyful)` `plurk_shared:(p-joyful)` `plurk_basecamp:(p-joyful)` `plurk_summit:(p-joyful)` | `(p-joyful)` | karma/0 | *(未描述)* | present | [38692e95](https://s.plurk.com/emoticons/basic2/38692e95e30abcd59898.gif) |
+| `plurk_myth:(p-laugh)` `plurk_shared:(p-laugh)` `plurk_basecamp:(p-laugh)` `plurk_summit:(p-laugh)` | `(p-laugh)` | karma/0 | *(未描述)* | present | [7c86b002](https://s.plurk.com/emoticons/basic2/7c86b00237142683b40b.gif) |
+| `plurk_myth:(p-mmm)` `plurk_shared:(p-mmm)` `plurk_basecamp:(p-mmm)` `plurk_summit:(p-mmm)` | `(p-mmm)` | karma/0 | *(未描述)* | present | [2e964296](https://s.plurk.com/emoticons/basic2/2e9642968a3325d724b5.gif) |
+| `plurk_myth:(p-music)` `plurk_shared:(p-music)` `plurk_basecamp:(p-music)` `plurk_summit:(p-music)` | `(p-music)` | karma/0 | *(未描述)* | present | [2e948ae7](https://s.plurk.com/emoticons/basic2/2e948ae7195e68b97ac5.gif) |
+| `plurk_myth:(p-nerd)` `plurk_shared:(p-nerd)` `plurk_basecamp:(p-nerd)` `plurk_summit:(p-nerd)` | `(p-nerd)` | karma/0 | *(未描述)* | present | [b72637e5](https://s.plurk.com/emoticons/basic2/b72637e5aba38e279cb4.gif) |
+| `plurk_myth:(p-rock)` `plurk_shared:(p-rock)` `plurk_basecamp:(p-rock)` `plurk_summit:(p-rock)` | `(p-rock)` | karma/0 | *(未描述)* | present | [f7ba7884](https://s.plurk.com/emoticons/basic2/f7ba78844f036f465f69.gif) |
+| `plurk_myth:(p-sad)` `plurk_shared:(p-sad)` `plurk_basecamp:(p-sad)` `plurk_summit:(p-sad)` | `(p-sad)` | karma/0 | *(未描述)* | present | [d5e7be5e](https://s.plurk.com/emoticons/basic2/d5e7be5e4e2e02feed64.gif) |
+| `plurk_myth:(p-sick)` `plurk_shared:(p-sick)` `plurk_basecamp:(p-sick)` `plurk_summit:(p-sick)` | `(p-sick)` | karma/0 | *(未描述)* | present | [38936926](https://s.plurk.com/emoticons/basic2/389369261e46e7b5bdad.gif) |
+| `plurk_myth:(p-smile)` `plurk_shared:(p-smile)` `plurk_basecamp:(p-smile)` `plurk_summit:(p-smile)` | `(p-smile)` | karma/0 | *(未描述)* | present | [66229358](https://s.plurk.com/emoticons/basic2/6622935828514f94a04f.gif) |
+| `plurk_myth:(p-stare)` `plurk_shared:(p-stare)` `plurk_basecamp:(p-stare)` `plurk_summit:(p-stare)` | `(p-stare)` | karma/0 | *(未描述)* | present | [cdf4d85f](https://s.plurk.com/emoticons/basic2/cdf4d85ffe4059ae63fd.gif) |
+| `plurk_myth:(p-surprised)` `plurk_shared:(p-surprised)` `plurk_basecamp:(p-surprised)` `plurk_summit:(p-surprised)` | `(p-surprised)` | karma/0 | *(未描述)* | present | [1b07e99b](https://s.plurk.com/emoticons/basic2/1b07e99b3a2f2453192e.gif) |
+| `plurk_myth:(p-tears)` `plurk_shared:(p-tears)` `plurk_basecamp:(p-tears)` `plurk_summit:(p-tears)` | `(p-tears)` | karma/0 | *(未描述)* | present | [7e69bc46](https://s.plurk.com/emoticons/basic2/7e69bc46313d6bfc9157.gif) |
+| `plurk_myth:(p-tongue)` `plurk_shared:(p-tongue)` `plurk_basecamp:(p-tongue)` `plurk_summit:(p-tongue)` | `(p-tongue)` | karma/0 | *(未描述)* | present | [28a8c933](https://s.plurk.com/emoticons/basic2/28a8c933cf014dcd423a.gif) |
+| `plurk_myth:(pumpkin)` `plurk_shared:(pumpkin)` `plurk_basecamp:(pumpkin)` `plurk_summit:(pumpkin)` | `(pumpkin)` | karma/0 | *(未描述)* | present | [216d68e0](https://s.plurk.com/emoticons/halloween/216d68e00097e6ef52c0.gif) |
+| `plurk_myth:(p-unsure)` `plurk_shared:(p-unsure)` `plurk_basecamp:(p-unsure)` `plurk_summit:(p-unsure)` | `(p-unsure)` | karma/0 | *(未描述)* | present | [916db9f5](https://s.plurk.com/emoticons/basic2/916db9f512a723f3c8ed.gif) |
+| `plurk_myth:(p-wave)` `plurk_shared:(p-wave)` `plurk_basecamp:(p-wave)` `plurk_summit:(p-wave)` | `(p-wave)` | karma/0 | *(未描述)* | present | [80955a97](https://s.plurk.com/emoticons/basic2/80955a97bcde85ba47fd.gif) |
+| `plurk_myth:(p-wink)` `plurk_shared:(p-wink)` `plurk_basecamp:(p-wink)` `plurk_summit:(p-wink)` | `(p-wink)` | karma/0 | *(未描述)* | present | [d52e817f](https://s.plurk.com/emoticons/basic2/d52e817f51980ac5e06f.gif) |
+| `plurk_myth:(p-woot)` `plurk_shared:(p-woot)` `plurk_basecamp:(p-woot)` `plurk_summit:(p-woot)` | `(p-woot)` | karma/0 | *(未描述)* | present | [3d5dd88a](https://s.plurk.com/emoticons/basic2/3d5dd88acb198686283f.gif) |
+| `plurk_myth:(rainbow)` `plurk_shared:(rainbow)` `plurk_basecamp:(rainbow)` `plurk_summit:(rainbow)` | `(rainbow)` | karma/0 | *(未描述)* | present | [f1ce5067](https://s.plurk.com/emoticons/pride/f1ce5067cf97140fa539.gif) |
+| `plurk_myth:(RIP)` `plurk_shared:(RIP)` `plurk_basecamp:(RIP)` `plurk_summit:(RIP)` | `(RIP)` | karma/0 | *(未描述)* | present | [821e5303](https://s.plurk.com/emoticons/basic2/821e530331b97f1d49f6.gif) |
+| `plurk_myth:(rock-paper-scissors)` `plurk_shared:(rock-paper-scissors)` `plurk_basecamp:(rock-paper-scissors)` `plurk_summit:(rock-paper-scissors)` | `(rock-paper-scissors)` | karma/0 | *(未描述)* | present | [d4e02922](https://s.plurk.com/emoticons/random/d4e02922f336b3fc37df.gif) |
+| `plurk_myth:(slot)` `plurk_shared:(slot)` `plurk_basecamp:(slot)` `plurk_summit:(slot)` | `(slot)` | karma/0 | *(未描述)* | present | [d266f2b1](https://s.plurk.com/emoticons/random/d266f2b19c50547d685a.png) |
+| `plurk_myth:(taser_okok)` `plurk_shared:(taser_okok)` `plurk_basecamp:(taser_okok)` `plurk_summit:(taser_okok)` | `(taser_okok)` | karma/0 | *(未描述)* | present | [2bee3006](https://s.plurk.com/emoticons/special/2bee3006341b74570ec6.gif) |
+| `plurk_myth:(wave_okok)` `plurk_shared:(wave_okok)` `plurk_basecamp:(wave_okok)` `plurk_summit:(wave_okok)` | `(wave_okok)` | karma/0 | *(未描述)* | present | [d6691783](https://s.plurk.com/emoticons/special/d6691783f11a09a06c4e.gif) |
+| `plurk_myth:(woot)` `plurk_shared:(woot)` `plurk_basecamp:(woot)` `plurk_summit:(woot)` | `(woot)` | karma/0 | *(未描述)* | present | [a2222b2e](https://s.plurk.com/emoticons/basic/a2222b2e2383bb7b7a8d.gif) |
+| `plurk_myth:(yarr)` `plurk_shared:(yarr)` `plurk_basecamp:(yarr)` `plurk_summit:(yarr)` | `(yarr)` | karma/0 | *(未描述)* | present | [cf62d5fa](https://s.plurk.com/emoticons/special/cf62d5fa0d3a77434176.gif) |
+| `plurk_myth:(yarr_okok)` `plurk_shared:(yarr_okok)` `plurk_basecamp:(yarr_okok)` `plurk_summit:(yarr_okok)` | `(yarr_okok)` | karma/0 | *(未描述)* | present | [8de76292](https://s.plurk.com/emoticons/special/8de76292cd29c62fb04d.gif) |
+| `plurk_myth:(Русский)` `plurk_shared:(Русский)` `plurk_basecamp:(Русский)` `plurk_summit:(Русский)` | `(Русский)` | karma/0 | *(未描述)* | present | [a5cf5b06](https://s.plurk.com/emoticons/special/a5cf5b068a84ec43bafb.gif) |
+| `plurk_myth::-&` `plurk_shared::-&` `plurk_basecamp::-&` `plurk_summit::-&` | `:-&` | karma/0 | *(未描述)* | present | [9b6dccfc](https://s.plurk.com/emoticons/basic/9b6dccfc66d158b4a9ab.gif) |
+| `plurk_myth::'-(` `plurk_shared::'-(` `plurk_basecamp::'-(` `plurk_summit::'-(` | `:'-(` | karma/0 | *(未描述)* | present | [6babe674](https://s.plurk.com/emoticons/basic/6babe674ab2acfec70a0.gif) |
+| `plurk_myth::-(` `plurk_shared::-(` `plurk_basecamp::-(` `plurk_summit::-(` | `:-(` | karma/0 | *(未描述)* | present | [909c919b](https://s.plurk.com/emoticons/basic/909c919bf67c90aee8d3.gif) |
+| `plurk_myth::-)` `plurk_shared::-)` `plurk_basecamp::-)` `plurk_summit::-)` | `:-)` | karma/0 | *(未描述)* | present | [1db1dfda](https://s.plurk.com/emoticons/basic/1db1dfdae0aa84a335a6.gif) |
+| `plurk_myth::-))` `plurk_shared::-))` `plurk_basecamp::-))` `plurk_summit::-))` | `:-))` | karma/0 | *(未描述)* | present | [9a3f0db1](https://s.plurk.com/emoticons/basic/9a3f0db1c41e5970355e.gif) |
+| `plurk_myth::-D` `plurk_shared::-D` `plurk_basecamp::-D` `plurk_summit::-D` | `:-D` | karma/0 | *(未描述)* | present | [711f8abd](https://s.plurk.com/emoticons/basic/711f8abdfa514f3b65a2.gif) |
+| `plurk_myth::-o` `plurk_shared::-o` `plurk_basecamp::-o` `plurk_summit::-o` | `:-o` | karma/0 | *(未描述)* | present | [767ec3ea](https://s.plurk.com/emoticons/basic/767ec3ea798852ce9271.gif) |
+| `plurk_myth::-P` `plurk_shared::-P` `plurk_basecamp::-P` `plurk_summit::-P` | `:-P` | karma/0 | *(未描述)* | present | [5a1e7d20](https://s.plurk.com/emoticons/basic/5a1e7d20eb1cfc56f825.gif) |
+| `plurk_myth:;-)` `plurk_shared:;-)` `plurk_basecamp:;-)` `plurk_summit:;-)` | `;-)` | karma/0 | *(未描述)* | present | [ea380460](https://s.plurk.com/emoticons/basic/ea3804608bbbceef4d6e.gif) |
+| `plurk_myth:X-(` `plurk_shared:X-(` `plurk_basecamp:X-(` `plurk_summit:X-(` | `X-(` | karma/0 | *(未描述)* | present | [efcced69](https://s.plurk.com/emoticons/basic/efcced692eddb42ad6c1.gif) |
+| `plurk_myth:(banana_ninja)` `plurk_shared:(banana_ninja)` `plurk_basecamp:(banana_ninja)` `plurk_summit:(banana_ninja)` | `(banana_ninja)` | karma/100 | *(未描述)* | present | [913635d4](https://s.plurk.com/emoticons/karma100/913635d4d89a7741fbd8.gif) |
+| `plurk_myth:(beer)` `plurk_shared:(beer)` `plurk_basecamp:(beer)` `plurk_summit:(beer)` | `(beer)` | karma/100 | *(未描述)* | present | [e4cd43c4](https://s.plurk.com/emoticons/karma100/e4cd43c44d9ef032f5c0.gif) |
+| `plurk_myth:(coffee)` `plurk_shared:(coffee)` `plurk_basecamp:(coffee)` `plurk_summit:(coffee)` | `(coffee)` | karma/100 | *(未描述)* | present | [897d4d58](https://s.plurk.com/emoticons/karma100/897d4d58e94bebe389b7.gif) |
+| `plurk_myth:(fish_hit)` `plurk_shared:(fish_hit)` `plurk_basecamp:(fish_hit)` `plurk_summit:(fish_hit)` | `(fish_hit)` | karma/100 | *(未描述)* | present | [67fc790b](https://s.plurk.com/emoticons/karma100/67fc790b716cc90c4c2b.gif) |
+| `plurk_myth:(morning)` `plurk_shared:(morning)` `plurk_basecamp:(morning)` `plurk_summit:(morning)` | `(morning)` | karma/100 | *(未描述)* | present | [f5da12f0](https://s.plurk.com/emoticons/karma100/f5da12f021dcc0f6fcec.gif) |
+| `plurk_myth:(muhaha)` `plurk_shared:(muhaha)` `plurk_basecamp:(muhaha)` `plurk_summit:(muhaha)` | `(muhaha)` | karma/100 | *(未描述)* | present | [4ef1d175](https://s.plurk.com/emoticons/karma100/4ef1d175113564399e6f.gif) |
+| `plurk_myth:(muscle)` `plurk_shared:(muscle)` `plurk_basecamp:(muscle)` `plurk_summit:(muscle)` | `(muscle)` | karma/100 | *(未描述)* | present | [3b927610](https://s.plurk.com/emoticons/karma100/3b9276108a2eb34c0dbb.gif) |
+| `plurk_myth:(smileydance)` `plurk_shared:(smileydance)` `plurk_basecamp:(smileydance)` `plurk_summit:(smileydance)` | `(smileydance)` | karma/100 | *(未描述)* | present | [cf8a224d](https://s.plurk.com/emoticons/karma100/cf8a224dd4c66563dcf8.gif) |
+| `plurk_myth:(taser)` `plurk_shared:(taser)` `plurk_basecamp:(taser)` `plurk_summit:(taser)` | `(taser)` | karma/100 | *(未描述)* | present | [92e08a44](https://s.plurk.com/emoticons/karma100/92e08a44086a120d1b55.gif) |
+| `plurk_myth:(angry)` `plurk_shared:(angry)` `plurk_basecamp:(angry)` `plurk_summit:(angry)` | `(angry)` | karma/25 | *(未描述)* | present | [638945ed](https://s.plurk.com/emoticons/silver/638945ed5ef6ca74dfd3.gif) |
+| `plurk_myth:(annoyed)` `plurk_shared:(annoyed)` `plurk_basecamp:(annoyed)` `plurk_summit:(annoyed)` | `(annoyed)` | karma/25 | *(未描述)* | present | [33ded221](https://s.plurk.com/emoticons/silver/33ded221bc52845cd3c5.gif) |
+| `plurk_myth:(blush)` `plurk_shared:(blush)` `plurk_basecamp:(blush)` `plurk_summit:(blush)` | `(blush)` | karma/25 | *(未描述)* | present | [8924117d](https://s.plurk.com/emoticons/silver/8924117d7b11b5cec86e.gif) |
+| `plurk_myth:(cozy)` `plurk_shared:(cozy)` `plurk_basecamp:(cozy)` `plurk_summit:(cozy)` | `(cozy)` | karma/25 | *(未描述)* | present | [dc6d5d24](https://s.plurk.com/emoticons/silver/dc6d5d24d6eb0bd4c074.gif) |
+| `plurk_myth:(dance)` `plurk_shared:(dance)` `plurk_basecamp:(dance)` `plurk_summit:(dance)` | `(dance)` | karma/25 | *(未描述)* | present | [1e940333](https://s.plurk.com/emoticons/silver/1e940333bb38fc3c8c3c.gif) |
+| `plurk_myth:(goodluck)` `plurk_shared:(goodluck)` `plurk_basecamp:(goodluck)` `plurk_summit:(goodluck)` | `(goodluck)` | karma/25 | *(未描述)* | present | [5873d5d2](https://s.plurk.com/emoticons/silver/5873d5d21efbbd843fce.gif) |
+| `plurk_myth:(griltongue)` `plurk_shared:(griltongue)` `plurk_basecamp:(griltongue)` `plurk_summit:(griltongue)` | `(griltongue)` | karma/25 | *(未描述)* | present | [6588bf08](https://s.plurk.com/emoticons/silver/6588bf08df341d71bc90.png) |
+| `plurk_myth:(highfive)` `plurk_shared:(highfive)` `plurk_basecamp:(highfive)` `plurk_summit:(highfive)` | `(highfive)` | karma/25 | *(未描述)* | present | [74720893](https://s.plurk.com/emoticons/silver/74720893ed4837dcf07f.gif) |
+| `plurk_myth:(hungry)` `plurk_shared:(hungry)` `plurk_basecamp:(hungry)` `plurk_summit:(hungry)` | `(hungry)` | karma/25 | *(未描述)* | present | [e6ec1749](https://s.plurk.com/emoticons/silver/e6ec17499e33956a1dff.gif) |
+| `plurk_myth:(K)` `plurk_shared:(K)` `plurk_basecamp:(K)` `plurk_summit:(K)` | `(K)` | karma/25 | *(未描述)* | present | [5d46d925](https://s.plurk.com/emoticons/silver/5d46d9251d5eec2a2214.gif) |
+| `plurk_myth:(mmm)` `plurk_shared:(mmm)` `plurk_basecamp:(mmm)` `plurk_summit:(mmm)` | `(mmm)` | karma/25 | *(未描述)* | present | [f21b0111](https://s.plurk.com/emoticons/silver/f21b0111490d416e0f06.gif) |
+| `plurk_myth:(music)` `plurk_shared:(music)` `plurk_basecamp:(music)` `plurk_summit:(music)` | `(music)` | karma/25 | *(未描述)* | present | [775713cc](https://s.plurk.com/emoticons/silver/775713cc17fbc7c3df26.gif) |
+| `plurk_myth:(sick)` `plurk_shared:(sick)` `plurk_basecamp:(sick)` `plurk_summit:(sick)` | `(sick)` | karma/25 | *(未描述)* | present | [c7c80605](https://s.plurk.com/emoticons/silver/c7c806055d52998022f5.gif) |
+| `plurk_myth:(tears)` `plurk_shared:(tears)` `plurk_basecamp:(tears)` `plurk_summit:(tears)` | `(tears)` | karma/25 | *(未描述)* | present | [6b910901](https://s.plurk.com/emoticons/silver/6b910901f860c63d0784.gif) |
+| `plurk_myth:(tired)` `plurk_shared:(tired)` `plurk_basecamp:(tired)` `plurk_summit:(tired)` | `(tired)` | karma/25 | *(未描述)* | present | [3aced380](https://s.plurk.com/emoticons/silver/3aced380ef8646d5b9a8.gif) |
+| `plurk_myth:(tongue)` `plurk_shared:(tongue)` `plurk_basecamp:(tongue)` `plurk_summit:(tongue)` | `(tongue)` | karma/25 | *(未描述)* | present | [d30843cc](https://s.plurk.com/emoticons/silver/d30843cc05e277db256b.gif) |
+| `plurk_myth:(unsure)` `plurk_shared:(unsure)` `plurk_basecamp:(unsure)` `plurk_summit:(unsure)` | `(unsure)` | karma/25 | *(未描述)* | present | [86e24900](https://s.plurk.com/emoticons/silver/86e24900e41e286acfa6.gif) |
+| `plurk_myth:(wave)` `plurk_shared:(wave)` `plurk_basecamp:(wave)` `plurk_summit:(wave)` | `(wave)` | karma/25 | *(未描述)* | present | [ff597919](https://s.plurk.com/emoticons/silver/ff597919404d87e6ded3.gif) |
+| `plurk_myth:B-)` `plurk_shared:B-)` `plurk_basecamp:B-)` `plurk_summit:B-)` | `B-)` | karma/25 | *(未描述)* | present | [91502e04](https://s.plurk.com/emoticons/silver/91502e04d8192a328b48.gif) |
+| `plurk_myth:(applause)` `plurk_shared:(applause)` `plurk_basecamp:(applause)` `plurk_summit:(applause)` | `(applause)` | karma/50 | *(未描述)* | present | [06dd3563](https://s.plurk.com/emoticons/gold/06dd3563ec316765a5d5.gif) |
+| `plurk_myth:(bringit)` `plurk_shared:(bringit)` `plurk_basecamp:(bringit)` `plurk_summit:(bringit)` | `(bringit)` | karma/50 | *(未描述)* | present | [852112e9](https://s.plurk.com/emoticons/gold/852112e96b166ff0fc12.gif) |
+| `plurk_myth:(brokenheart)` `plurk_shared:(brokenheart)` `plurk_basecamp:(brokenheart)` `plurk_summit:(brokenheart)` | `(brokenheart)` | karma/50 | *(未描述)* | present | [20c6bcad](https://s.plurk.com/emoticons/gold/20c6bcad93c959c16774.gif) |
+| `plurk_myth:(devil)` `plurk_shared:(devil)` `plurk_basecamp:(devil)` `plurk_summit:(devil)` | `(devil)` | karma/50 | *(未描述)* | present | [67761692](https://s.plurk.com/emoticons/gold/6776169299b3bc510291.gif) |
+| `plurk_myth:(doh)` `plurk_shared:(doh)` `plurk_basecamp:(doh)` `plurk_summit:(doh)` | `(doh)` | karma/50 | *(未描述)* | present | [a97a246d](https://s.plurk.com/emoticons/gold/a97a246dd46e1cb04e09.gif) |
+| `plurk_myth:(drinking)` `plurk_shared:(drinking)` `plurk_basecamp:(drinking)` `plurk_summit:(drinking)` | `(drinking)` | karma/50 | *(未描述)* | present | [e6b1b8a9](https://s.plurk.com/emoticons/gold/e6b1b8a96297abf07afc.gif) |
+| `plurk_myth:(flower)` `plurk_shared:(flower)` `plurk_basecamp:(flower)` `plurk_summit:(flower)` | `(flower)` | karma/50 | *(未描述)* | present | [29cbd2ad](https://s.plurk.com/emoticons/gold/29cbd2ad211819d3e11d.png) |
+| `plurk_myth:(girlkiss)` `plurk_shared:(girlkiss)` `plurk_basecamp:(girlkiss)` `plurk_summit:(girlkiss)` | `(girlkiss)` | karma/50 | *(未描述)* | present | [8f60265b](https://s.plurk.com/emoticons/gold/8f60265b424f8e7a28ff.gif) |
+| `plurk_myth:(gym)` `plurk_shared:(gym)` `plurk_basecamp:(gym)` `plurk_summit:(gym)` | `(gym)` | karma/50 | *(未描述)* | present | [90b19dd0](https://s.plurk.com/emoticons/gold/90b19dd097dc17ba5ed3.gif) |
+| `plurk_myth:(heart)` `plurk_shared:(heart)` `plurk_basecamp:(heart)` `plurk_summit:(heart)` | `(heart)` | karma/50 | *(未描述)* | present | [02d9fa3c](https://s.plurk.com/emoticons/gold/02d9fa3c7dd9c827d482.gif) |
+| `plurk_myth:(lmao)` `plurk_shared:(lmao)` `plurk_basecamp:(lmao)` `plurk_summit:(lmao)` | `(lmao)` | karma/50 | *(未描述)* | present | [818eab06](https://s.plurk.com/emoticons/gold/818eab061a7a88347d4a.gif) |
+| `plurk_myth:(money)` `plurk_shared:(money)` `plurk_basecamp:(money)` `plurk_summit:(money)` | `(money)` | karma/50 | *(未描述)* | present | [4e9cf271](https://s.plurk.com/emoticons/gold/4e9cf2717dd6b2724250.gif) |
+| `plurk_myth:(nottalking)` `plurk_shared:(nottalking)` `plurk_basecamp:(nottalking)` `plurk_summit:(nottalking)` | `(nottalking)` | karma/50 | *(未描述)* | present | [8ceaac66](https://s.plurk.com/emoticons/gold/8ceaac66ecb05e54ff52.gif) |
+| `plurk_myth:(party)` `plurk_shared:(party)` `plurk_basecamp:(party)` `plurk_summit:(party)` | `(party)` | karma/50 | *(未描述)* | present | [a374f9f8](https://s.plurk.com/emoticons/gold/a374f9f870ad75459f7c.gif) |
+| `plurk_myth:(rock)` `plurk_shared:(rock)` `plurk_basecamp:(rock)` `plurk_summit:(rock)` | `(rock)` | karma/50 | *(未描述)* | present | [1d19eabe](https://s.plurk.com/emoticons/gold/1d19eabecaeda142b6ec.gif) |
+| `plurk_myth:(rofl)` `plurk_shared:(rofl)` `plurk_basecamp:(rofl)` `plurk_summit:(rofl)` | `(rofl)` | karma/50 | *(未描述)* | present | [2d641417](https://s.plurk.com/emoticons/gold/2d641417d57ea3783e1d.gif) |
+| `plurk_myth:(sleeping)` `plurk_shared:(sleeping)` `plurk_basecamp:(sleeping)` `plurk_summit:(sleeping)` | `(sleeping)` | karma/50 | *(未描述)* | present | [a7f7fc70](https://s.plurk.com/emoticons/gold/a7f7fc702a12b681077c.gif) |
+| `plurk_myth:(thinking)` `plurk_shared:(thinking)` `plurk_basecamp:(thinking)` `plurk_summit:(thinking)` | `(thinking)` | karma/50 | *(未描述)* | present | [fdd09f58](https://s.plurk.com/emoticons/gold/fdd09f58241ffb312891.gif) |
+| `plurk_myth:(worship)` `plurk_shared:(worship)` `plurk_basecamp:(worship)` `plurk_summit:(worship)` | `(worship)` | karma/50 | *(未描述)* | present | [7b6731cf](https://s.plurk.com/emoticons/gold/7b6731cf556df2eb2e2a.gif) |
+| `plurk_myth:8-)` `plurk_shared:8-)` `plurk_basecamp:8-)` `plurk_summit:8-)` | `8-)` | karma/50 | *(未描述)* | present | [ecc2c02e](https://s.plurk.com/emoticons/gold/ecc2c02e6fa7501cfa51.gif) |
+| `plurk_myth:(banana_cool)` `plurk_shared:(banana_cool)` `plurk_basecamp:(banana_cool)` `plurk_summit:(banana_cool)` | `(banana_cool)` | karma/81 | *(未描述)* | present | [fdbea511](https://s.plurk.com/emoticons/platinum2/fdbea5118d58463a8b15.gif) |
+| `plurk_myth:(banana_rock)` `plurk_shared:(banana_rock)` `plurk_basecamp:(banana_rock)` `plurk_summit:(banana_rock)` | `(banana_rock)` | karma/81 | *(未描述)* | present | [31df851a](https://s.plurk.com/emoticons/platinum2/31df851ab618f613a20d.gif) |
+| `plurk_myth:(evil_grin)` `plurk_shared:(evil_grin)` `plurk_basecamp:(evil_grin)` `plurk_summit:(evil_grin)` | `(evil_grin)` | karma/81 | *(未描述)* | present | [e759ec77](https://s.plurk.com/emoticons/platinum2/e759ec7795ef23e41d6b.gif) |
+| `plurk_myth:(evilsmirk)` `plurk_shared:(evilsmirk)` `plurk_basecamp:(evilsmirk)` `plurk_summit:(evilsmirk)` | `(evilsmirk)` | karma/81 | *(未描述)* | present | [b12b5e84](https://s.plurk.com/emoticons/platinum2/b12b5e8446fb2cf5a328.gif) |
+| `plurk_myth:(eyeroll)` `plurk_shared:(eyeroll)` `plurk_basecamp:(eyeroll)` `plurk_summit:(eyeroll)` | `(eyeroll)` | karma/81 | *(未描述)* | present | [625b57ae](https://s.plurk.com/emoticons/platinum2/625b57aed3cd92d5e24d.gif) |
+| `plurk_myth:(haha)` `plurk_shared:(haha)` `plurk_basecamp:(haha)` `plurk_summit:(haha)` | `(haha)` | karma/81 | *(未描述)* | present | [2b3e4180](https://s.plurk.com/emoticons/platinum2/2b3e41800095597e8537.gif) |
+| `plurk_myth:(headspin)` `plurk_shared:(headspin)` `plurk_basecamp:(headspin)` `plurk_summit:(headspin)` | `(headspin)` | karma/81 | *(未描述)* | present | [fe2fd255](https://s.plurk.com/emoticons/platinum2/fe2fd25530b4f27dd61a.gif) |
+| `plurk_myth:(heart_beat)` `plurk_shared:(heart_beat)` `plurk_basecamp:(heart_beat)` `plurk_summit:(heart_beat)` | `(heart_beat)` | karma/81 | *(未描述)* | present | [353b4136](https://s.plurk.com/emoticons/platinum2/353b4136dc309acf854c.gif) |
+| `plurk_myth:(ninja)` `plurk_shared:(ninja)` `plurk_basecamp:(ninja)` `plurk_summit:(ninja)` | `(ninja)` | karma/81 | *(未描述)* | present | [75499428](https://s.plurk.com/emoticons/platinum2/75499428b46c8d6f4e5d.gif) |
+| `plurk_myth:(bigeyes)` `plurk_shared:(bigeyes)` `plurk_basecamp:(bigeyes)` `plurk_summit:(bigeyes)` | `(bigeyes)` | recruited/10 | *(未描述)* | present | [7eb08028](https://s.plurk.com/emoticons/platinum/7eb08028816df6e992e6.gif) |
+| `plurk_myth:(cry)` `plurk_shared:(cry)` `plurk_basecamp:(cry)` `plurk_summit:(cry)` | `(cry)` | recruited/10 | *(未描述)* | present | [a0f5644a](https://s.plurk.com/emoticons/platinum/a0f5644ae81e9ad32805.gif) |
+| `plurk_myth:(funkydance)` `plurk_shared:(funkydance)` `plurk_basecamp:(funkydance)` `plurk_summit:(funkydance)` | `(funkydance)` | recruited/10 | *(未描述)* | present | [4dac8181](https://s.plurk.com/emoticons/platinum/4dac81814b658885396e.gif) |
+| `plurk_myth:(hassle)` `plurk_shared:(hassle)` `plurk_basecamp:(hassle)` `plurk_summit:(hassle)` | `(hassle)` | recruited/10 | *(未描述)* | present | [0e4e67f9](https://s.plurk.com/emoticons/platinum/0e4e67f9ffb4ec83f78d.gif) |
+| `plurk_myth:(idiot)` `plurk_shared:(idiot)` `plurk_basecamp:(idiot)` `plurk_summit:(idiot)` | `(idiot)` | recruited/10 | *(未描述)* | present | [e377eeac](https://s.plurk.com/emoticons/platinum/e377eeaca7bb2bbe04ed.gif) |
+| `plurk_myth:(lonely)` `plurk_shared:(lonely)` `plurk_basecamp:(lonely)` `plurk_summit:(lonely)` | `(lonely)` | recruited/10 | *(未描述)* | present | [cbf8f513](https://s.plurk.com/emoticons/platinum/cbf8f513618a261dc9da.gif) |
+| `plurk_myth:(okok)` `plurk_shared:(okok)` `plurk_basecamp:(okok)` `plurk_summit:(okok)` | `(okok)` | recruited/10 | *(未描述)* | present | [20bfe281](https://s.plurk.com/emoticons/platinum/20bfe28106d999707709.gif) |
+| `plurk_myth:(panic)` `plurk_shared:(panic)` `plurk_basecamp:(panic)` `plurk_summit:(panic)` | `(panic)` | recruited/10 | *(未描述)* | present | [8b80a0d5](https://s.plurk.com/emoticons/platinum/8b80a0d5b50df0169b19.gif) |
+| `plurk_myth:(scenic)` `plurk_shared:(scenic)` `plurk_basecamp:(scenic)` `plurk_summit:(scenic)` | `(scenic)` | recruited/10 | *(未描述)* | present | [8d4c9b57](https://s.plurk.com/emoticons/platinum/8d4c9b570396c85d9b29.gif) |
+| `plurk_myth:(yahoo)` `plurk_shared:(yahoo)` `plurk_basecamp:(yahoo)` `plurk_summit:(yahoo)` | `(yahoo)` | recruited/10 | *(未描述)* | present | [605d05d7](https://s.plurk.com/emoticons/platinum/605d05d7b221b1594e2e.gif) |
 | `7947987:emo17335` `14714389:emo10` | `—` | seen | 動漫少女 Q 版頭像（棕髮 藍瞳 笑臉） | seen | [6d60e95a](https://emos.plurk.com/6d60e95ae3d8d5f2d0774685dca1b37c_w48_h48.gif) |
 | `7947987:emo17353` | `—` | seen | 白色卡通角色線稿頭像（紅色細節） | seen | [fb96ff10](https://emos.plurk.com/fb96ff102c7c86ae7d1e9abbea069656_w48_h48.gif) |
 | `7947987:emo17399` | `—` | seen | 光頭真人男子臉部特寫（動圖 meme 風） | seen | [6dd534ba](https://emos.plurk.com/6dd534ba66fad27d5fd3a552ebdb290f_w48_h48.gif) |
@@ -229,7 +238,6 @@
 | `6643890:emo72` | `—` | seen | *(未描述)* | seen | [cc0b2a49](https://emos.plurk.com/cc0b2a494f11339db5ed5078e397bb4d_w48_h19.png) |
 | `11461429:emo449` | `—` | seen | *(未描述)* | seen | [b9faffd0](https://emos.plurk.com/b9faffd07a672d21a063bab707b30396_w48_h48.gif) |
 | `17572170:emo98` | `—` | seen | *(未描述)* | seen | [2d75cef6](https://emos.plurk.com/2d75cef6e3d5b86497fbcdeff2fd26b5_w47_h48.jpeg) |
-| `14712555:emo1` | `—` | seen | *(未描述)* | seen | [8e675709](https://emos.plurk.com/8e67570973b3ff9a77888a773d974fec_w48_h48.gif) |
 | `6958127:emo19401969` | `—` | seen | *(未描述)* | seen | [ed0d3682](https://emos.plurk.com/ed0d36821bba6ae1f4e120b8f52953b9_w48_h48.gif) |
 | `15775422:emo429` | `—` | seen | *(未描述)* | seen | [b757acb5](https://emos.plurk.com/b757acb516c33653208d4abdcfcd21c9_w13_h23.png) |
 | `15775422:emo430` | `—` | seen | *(未描述)* | seen | [8a7302c1](https://emos.plurk.com/8a7302c17a9038c40834b10eba16f89f_w13_h23.png) |

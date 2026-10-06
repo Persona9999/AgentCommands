@@ -1,0 +1,15 @@
+{
+	"id": "092201_558_faa21c",
+	"type": "credit",
+	"account_id": "frs",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=22233",
+	"description": "post reward: category=meta seq=22233",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_22233",
+	"idempotency_key": "work_post_tavern_22233",
+	"at_utc": "2026-10-06T09:22:01.5584188Z",
+	"schema_version": 1
+}

@@ -1,0 +1,15 @@
+{
+	"id": "010056_440_91ae59",
+	"type": "credit",
+	"account_id": "frs",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "2a37f8f",
+	"description": "commit post reward: sha=2a37f8f tavern#seq=21819",
+	"caller": "system",
+	"cmd_id": "commit_2a37f8f",
+	"idempotency_key": "commit_tavern_21819",
+	"at_utc": "2026-10-06T01:00:56.4403164Z",
+	"schema_version": 1
+}

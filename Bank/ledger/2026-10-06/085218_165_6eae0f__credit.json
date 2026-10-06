@@ -1,0 +1,15 @@
+{
+	"id": "085218_165_6eae0f",
+	"type": "credit",
+	"account_id": "frs",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=22183",
+	"description": "post reward: category=chat seq=22183",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_22183",
+	"idempotency_key": "work_post_tavern_22183",
+	"at_utc": "2026-10-06T08:52:18.1656931Z",
+	"schema_version": 1
+}
