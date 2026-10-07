@@ -21,7 +21,7 @@
 | `plurk_summit:emo2` | `emo2` | custom | 灰階光頭男子臉部特寫（meme 風靜圖） | missing | [99cb0419](https://emos.plurk.com/99cb0419887d3d8c4a30d8d5c5928ec2_w48_h48.jpeg) |
 | `plurk_shared:emo3` `plurk_basecamp:emo5` | `emo3` | custom | *(未描述)* | missing | [b64851d2](https://emos.plurk.com/b64851d2601c48abc997e86a076ac0fe_w48_h48.gif) |
 | `plurk_summit:emo3` | `emo3` | custom | 卡通柴犬側臉動圖（doge 風） | missing | [5688f03f](https://emos.plurk.com/5688f03f23b2e9dd647c7516cdb74f89_w48_h48.gif) |
-| `plurk_shared:emo4` `plurk_basecamp:emo1` | `emo4` | custom | *(未描述)* | missing | [11776216](https://emos.plurk.com/117762168a65eb678b4f6cfc53a24a24_w20_h20.gif) |
+| `plurk_shared:emo4` `plurk_basecamp:emo1` `18174200:emo4` | `emo4` | custom | *(未描述)* | missing | [11776216](https://emos.plurk.com/117762168a65eb678b4f6cfc53a24a24_w20_h20.gif) |
 | `plurk_shared:emo5` `plurk_basecamp:emo3` | `emo5` | custom | *(未描述)* | missing | [7d1daa97](https://emos.plurk.com/7d1daa97eff0c2f856731d898001ca95_w45_h45.jpeg) |
 | `plurk_summit:emo5` | `emo5` | custom | 夕陽下張開雙臂的人物剪影 | missing | [e7d47cad](https://emos.plurk.com/e7d47cad08585485f7d4e0245d806b21_w48_h45.png) |
 | `plurk_shared:emo6` `plurk_summit:emo1` | `emo6` | custom | 真人男子臉部特寫動圖（首幀正面微笑） | missing | [3dfa5eda](https://emos.plurk.com/3dfa5eda18a8457e1971de959e0604be_w48_h48.gif) |
@@ -32,7 +32,7 @@
 | `plurk_shared:emo8` `plurk_summit:emo4` `18165969:emo4` | `emo8` | custom | 西裝男子側臉動圖（影劇截圖風） | missing | [04fef3bb](https://emos.plurk.com/04fef3bb427776c12808d0b3ac6c75f0_w48_h40.gif) |
 | `plurk_basecamp:emo8` | `emo8` | custom | *(未描述)* | missing | [349f597a](https://emos.plurk.com/349f597ab09300c7a81cba651469287e_w48_h48.jpeg) |
 | `plurk_summit:emo8` `4473602:emo2730594` `18165969:emo8` | `emo8` | custom | 黃色小雞側面小圖示 | missing | [18e064ee](https://emos.plurk.com/18e064eea49a0f1b1d4f617f241463ae_w22_h19.png) |
-| `plurk_shared:emo9` | `emo9` | custom | *(未描述)* | missing | [1b46b948](https://emos.plurk.com/1b46b948548d5a895ef4880d46cd4494_w20_h20.gif) |
+| `plurk_shared:emo9` `18174200:emo9` | `emo9` | custom | *(未描述)* | missing | [1b46b948](https://emos.plurk.com/1b46b948548d5a895ef4880d46cd4494_w20_h20.gif) |
 | `plurk_myth:(angry_okok)` `plurk_shared:(angry_okok)` `plurk_basecamp:(angry_okok)` `plurk_summit:(angry_okok)` | `(angry_okok)` | karma/0 | *(未描述)* | present | [c0bd0476](https://s.plurk.com/emoticons/special/c0bd047666c48601098a.gif) |
 | `plurk_myth:(banana_gym)` `plurk_shared:(banana_gym)` `plurk_basecamp:(banana_gym)` `plurk_summit:(banana_gym)` | `(banana_gym)` | karma/0 | *(未描述)* | present | [5760a257](https://s.plurk.com/emoticons/special/5760a25796d97c687cc5.gif) |
 | `plurk_myth:(bat)` `plurk_shared:(bat)` `plurk_basecamp:(bat)` `plurk_summit:(bat)` | `(bat)` | karma/0 | *(未描述)* | present | [1e9dc552](https://s.plurk.com/emoticons/halloween/1e9dc552129418d0cf0e.gif) |

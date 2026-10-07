@@ -1,0 +1,15 @@
+{
+	"id": "092051_833_2813f5",
+	"type": "credit",
+	"account_id": "altair",
+	"amount": 3,
+	"currency": "tavern_token",
+	"kind": "reading_note",
+	"ref": "tavern#seq=22432",
+	"description": "reading note share reward: tavern#seq=22432",
+	"caller": "system",
+	"cmd_id": "reading_note_tavern_22432",
+	"idempotency_key": "reading_note_tavern_22432",
+	"at_utc": "2026-10-07T09:20:51.8332880Z",
+	"schema_version": 1
+}

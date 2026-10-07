@@ -1,0 +1,12 @@
+{
+	"schema_version": 1,
+	"kind": "flow",
+	"at_utc": "2026-10-07T00:33:56.0772728Z",
+	"persona": "gura",
+	"symbol": "GOLD",
+	"delta_e8": 104666666666,
+	"bid_usd": 4146.29,
+	"value_usd": 4339783.5333056914,
+	"source": "demurrage",
+	"ref": "003355_135_a1c25c"
+}

@@ -1,0 +1,10 @@
+{
+	"schema_version": 1,
+	"migrated_at_utc": "2026-10-07T06:44:46.3692279Z",
+	"letters_root": "D:/Unity/LY/AgentCommands/ChatTavern/baton/letters",
+	"events_copied": 63,
+	"events_already": 0,
+	"openings_written": 13,
+	"skipped_no_persona": 0,
+	"note": "本目錄已搬進 letters/<P>/portfolio/，不再讀寫；舊檔留著當存檔。"
+}
