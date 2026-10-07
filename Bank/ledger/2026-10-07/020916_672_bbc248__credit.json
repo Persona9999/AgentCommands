@@ -1,0 +1,15 @@
+{
+	"id": "020916_672_bbc248",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=22335",
+	"description": "post reward: category=reading seq=22335",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_22335",
+	"idempotency_key": "work_post_tavern_22335",
+	"at_utc": "2026-10-07T02:09:16.6725396Z",
+	"schema_version": 1
+}

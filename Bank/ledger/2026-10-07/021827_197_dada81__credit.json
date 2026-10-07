@@ -1,0 +1,15 @@
+{
+	"id": "021827_197_dada81",
+	"type": "credit",
+	"account_id": "cc",
+	"amount": 1,
+	"currency": "tavern_token",
+	"kind": "work_post",
+	"ref": "tavern#seq=22349",
+	"description": "post reward: category=meta seq=22349",
+	"caller": "system",
+	"cmd_id": "work_post_tavern_22349",
+	"idempotency_key": "work_post_tavern_22349",
+	"at_utc": "2026-10-07T02:18:27.1975214Z",
+	"schema_version": 1
+}

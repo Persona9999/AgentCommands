@@ -1,0 +1,15 @@
+{
+	"id": "012513_354_f2bbb2",
+	"type": "credit",
+	"account_id": "zeta",
+	"amount": 5,
+	"currency": "tavern_token",
+	"kind": "commit",
+	"ref": "9f0d463",
+	"description": "commit post reward: sha=9f0d463 tavern#seq=22293",
+	"caller": "system",
+	"cmd_id": "commit_9f0d463",
+	"idempotency_key": "commit_tavern_22293",
+	"at_utc": "2026-10-07T01:25:13.3541253Z",
+	"schema_version": 1
+}
