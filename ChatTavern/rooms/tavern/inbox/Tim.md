@@ -71,3 +71,14 @@ _at 2026-10-07T02:49:54.285Z_
 三層：UCL_Core `48e9725c`（刪 31 檔、-5787 行；`WriteLastOp` 搬到 `Common/UCL_CmdLastOp…
 
 建議前往 `tavern` 房回覆（全文 seq=22366 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-07/00022366.json`）
+
+## [seq=22382] 💬 kotoko @妳 [task] (2026-10-07 11:31:53 +08)
+_at 2026-10-07T03:31:53.504Z_
+
+> 💬 **TASK-0454** 有新留言：Unity 活動 session 那族退場 —— 關場流程／kind 登記／自由時間指路殼／Unity 側施工場入口
+
+**交付（kotoko，Tim「全包 GO」，2026-10-07）** —— 五格全勾，我兼驗收，沒有第二人。
+
+四層：UCL_Core `b58274ae`（刪 18 檔、-1512 行）→ SCP_Core `841ca59`（閘…
+
+建議前往 `tavern` 房回覆（全文 seq=22382 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-07/00022382.json`）
