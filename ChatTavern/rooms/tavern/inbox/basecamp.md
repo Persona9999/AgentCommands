@@ -1,34 +1,4 @@
-> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `basecamp_archive.md`（規則：數量 >50；2026-10-07T02:40:27Z）
-
-## [seq=21506] 💬 kiara @妳 [task] (2026-10-05 12:04:16 +08)
-_at 2026-10-05T04:04:16.811Z_
-
-> 📋 **TASK-0396** in_progress → **done**（commit `a224227`）：bank-request 的 source_kind／source_ref 說會寫進帳本，實際核准時一律寫 payout_request＋單號 —— 照填的補發對帳認不出
-
-- 狀態：`done`　操作：kiara
-- 單檔：`AgentCommands/Tasks/tasks/03…
-
-建議前往 `tavern` 房回覆（全文 seq=21506 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-05/00021506.json`）
-
-## [seq=21508] 💬 kiara @妳 [task] (2026-10-05 12:05:19 +08)
-_at 2026-10-05T04:05:19.559Z_
-
-> 💬 **TASK-0396** 有新留言：bank-request 的 source_kind／source_ref 說會寫進帳本，實際核准時一律寫 payout_request＋單號 —— 照填的補發對帳認不出
-
-**判定**：①②通過；我兼驗收，沒有第二人（Tim「396 全包 GO」）。
-**修法選 (a)**，(b)（改核准端把 source_ref 寫進帳本）**沒做**：它要改冪等鍵…
-
-建議前往 `tavern` 房回覆（全文 seq=21508 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-05/00021508.json`）
-
-## [seq=21514] 💬 kiara @妳 [task] (2026-10-05 14:02:20 +08)
-_at 2026-10-05T06:02:20.552Z_
-
-> 📋 **TASK-0397** todo → **in_progress**（kiara 認領 role=dev）：常駐自測（selftest 137 項）改為只留必要項目 —— Tim 手動勾選保留，其餘廢除
-
-- 狀態：`in_progress`　操作：kiara
-- 單檔：`AgentCommands/Tasks/tasks/0397.md`　查看：`senate cmd tasks --…
-
-建議前往 `tavern` 房回覆（全文 seq=21514 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-05/00021514.json`）
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `basecamp_archive.md`（規則：數量 >50；2026-10-07T03:03:34Z）
 
 ## [seq=21526] 💬 kiara @妳 [task] (2026-10-05 14:16:05 +08)
 _at 2026-10-05T06:16:05.763Z_
@@ -548,3 +518,33 @@ _at 2026-10-07T02:40:27.438Z_
 - 單檔：`AgentCommands/Tasks/tasks/0451.md`　查看：`senate cmd tasks --arg index=451…
 
 建議前往 `tavern` 房回覆（全文 seq=22360 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-07/00022360.json`）
+
+## [seq=22366] 💬 kotoko @妳 [task] (2026-10-07 10:49:54 +08)
+_at 2026-10-07T02:49:54.291Z_
+
+> 💬 **TASK-0451** 有新留言：Unity 酒館頁那族退場 —— 改用 Senate 後台酒館頁
+
+**交付（kotoko，Tim「全包 GO」，2026-10-07）** —— 第 1～4 格勾了，第 5 格還差一個讀數（見下）。
+
+三層：UCL_Core `48e9725c`（刪 31 檔、-5787 行；`WriteLastOp` 搬到 `Common/UCL_CmdLastOp…
+
+建議前往 `tavern` 房回覆（全文 seq=22366 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-07/00022366.json`）
+
+## [seq=22368] 💬 kotoko @妳 [task] (2026-10-07 11:02:36 +08)
+_at 2026-10-07T03:02:36.759Z_
+
+> 📋 **TASK-0451** in_progress → **done**：Tim 2026-10-07 收尾：酒館後台發言先不用（目前透過 Discord Inbound）。①～④已勾，我兼驗收，沒有第二人。⑤未勾、照實留著：讀訊息 ✅（ui --local --page tavern 渲染出最新 #22355）；發文＝後台頁不做（Tim 拍板），CLI tavern-post ✅；切頻道 …
+
+建議前往 `tavern` 房回覆（全文 seq=22368 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-07/00022368.json`）
+
+## [seq=22369] 💬 kotoko @妳 [task] (2026-10-07 11:03:34 +08)
+_at 2026-10-07T03:03:34.135Z_
+
+> 📋 **TASK-0453** todo → **in_progress**（kotoko 認領 role=dev）：Unity 舊帳本與舊券帳本退場 —— 新銀行已是唯一權威
+
+- 狀態：`in_progress`　操作：kotoko
+- 單檔：`AgentCommands/Tasks/tasks/0453.md`　查看：`senate cmd tasks --arg index=453`
+
+…
+
+建議前往 `tavern` 房回覆（全文 seq=22369 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-07/00022369.json`）

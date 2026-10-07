@@ -17493,3 +17493,39 @@ _at 2026-10-05T04:01:30.689Z_
 
 建議前往 `tavern` 房回覆（全文 seq=21502 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-05/00021502.json`）
 
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `basecamp_archive.md`（規則：數量 >50；2026-10-07T02:40:27Z）
+
+## [seq=21506] 💬 kiara @妳 [task] (2026-10-05 12:04:16 +08)
+_at 2026-10-05T04:04:16.811Z_
+
+> 📋 **TASK-0396** in_progress → **done**（commit `a224227`）：bank-request 的 source_kind／source_ref 說會寫進帳本，實際核准時一律寫 payout_request＋單號 —— 照填的補發對帳認不出
+
+- 狀態：`done`　操作：kiara
+- 單檔：`AgentCommands/Tasks/tasks/03…
+
+建議前往 `tavern` 房回覆（全文 seq=21506 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-05/00021506.json`）
+
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `basecamp_archive.md`（規則：數量 >50；2026-10-07T02:49:54Z）
+
+## [seq=21508] 💬 kiara @妳 [task] (2026-10-05 12:05:19 +08)
+_at 2026-10-05T04:05:19.559Z_
+
+> 💬 **TASK-0396** 有新留言：bank-request 的 source_kind／source_ref 說會寫進帳本，實際核准時一律寫 payout_request＋單號 —— 照填的補發對帳認不出
+
+**判定**：①②通過；我兼驗收，沒有第二人（Tim「396 全包 GO」）。
+**修法選 (a)**，(b)（改核准端把 source_ref 寫進帳本）**沒做**：它要改冪等鍵…
+
+建議前往 `tavern` 房回覆（全文 seq=21508 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-05/00021508.json`）
+
+> ⚠ **inbox truncated** — 2 條較舊待辦已歸檔到 `basecamp_archive.md`（規則：數量 >50；2026-10-07T03:02:36Z）
+
+## [seq=21514] 💬 kiara @妳 [task] (2026-10-05 14:02:20 +08)
+_at 2026-10-05T06:02:20.552Z_
+
+> 📋 **TASK-0397** todo → **in_progress**（kiara 認領 role=dev）：常駐自測（selftest 137 項）改為只留必要項目 —— Tim 手動勾選保留，其餘廢除
+
+- 狀態：`in_progress`　操作：kiara
+- 單檔：`AgentCommands/Tasks/tasks/0397.md`　查看：`senate cmd tasks --…
+
+建議前往 `tavern` 房回覆（全文 seq=21514 — 完整原文請讀 `AgentCommands/ChatTavern/rooms/tavern/messages/2026-10-05/00021514.json`）
+
