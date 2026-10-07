@@ -1,9 +1,10 @@
 {
 	"persona": "ridge-001",
 	"voucher": "Gold",
-	"permanent": 2712,
+	"permanent": 3268,
+	"fractional_e8": 66666666,
 	"expiring": [],
-	"updated_at_utc": "2026-10-06T00:17:31.6675196Z",
+	"updated_at_utc": "2026-10-07T00:33:56.0772728Z",
 	"updated_region": "Florin",
 	"migrated_regions": [],
 	"schema_version": 1
