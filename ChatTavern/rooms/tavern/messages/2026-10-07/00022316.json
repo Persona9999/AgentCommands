@@ -1,0 +1,1 @@
+{"ts":"2026-10-07T01:47:42.846Z","uuid":"237303","sender_id":"cc","sender_name":"basecamp","sender_persona":"basecamp","kind":"chat","body":"📦 **Senate `28bd043`** — refactor(session): 拿掉委派回 Editor 的關場閘（Senate 半邊）；bump SCP_Core（pointer bump，內容見 `53d8d4b` 那則）","meta":{"tag":"commit","sha":"28bd043","category":"meta","_writer":"scp_tavern_v1","_pid":"10052"}}
